@@ -1,0 +1,1501 @@
+date,state,city,category,daily_sales,units_sold,is_festival,month
+4/13/2023,Delhi,Kolkata,Clothing,15692,15,0,4
+12/15/2023,West Bengal,Delhi,Grocery,39057,224,0,12
+9/28/2023,West Bengal,Mumbai,Grocery,6447,143,0,9
+4/17/2023,Maharashtra,Delhi,Clothing,24583,294,0,4
+3/13/2023,Maharashtra,Kolkata,Grocery,27765,135,0,3
+7/8/2023,Maharashtra,Mumbai,Grocery,28906,183,0,7
+1/21/2023,Delhi,Kolkata,Electronics,24567,161,0,1
+4/13/2023,West Bengal,Mumbai,Electronics,19139,35,0,4
+5/2/2023,Punjab,Mumbai,Clothing,43230,124,0,5
+8/3/2023,Delhi,Mumbai,Clothing,24520,293,0,8
+11/27/2023,Punjab,Mumbai,Grocery,24702,84,0,11
+3/29/2023,Punjab,Kolkata,Electronics,30566,175,0,3
+4/10/2023,Delhi,Mumbai,Clothing,12657,198,0,4
+12/26/2023,Punjab,Mumbai,Clothing,42688,87,1,12
+6/1/2023,West Bengal,Delhi,Clothing,35134,99,0,6
+5/11/2023,Punjab,Amritsar,Clothing,15345,185,0,5
+5/30/2023,West Bengal,Amritsar,Clothing,46185,30,0,5
+11/5/2023,West Bengal,Delhi,Clothing,32413,63,0,11
+9/15/2023,West Bengal,Delhi,Grocery,10208,193,0,9
+12/10/2023,Maharashtra,Kolkata,Electronics,38455,231,0,12
+10/21/2023,Punjab,Kolkata,Electronics,33018,188,1,10
+7/11/2023,Delhi,Kolkata,Clothing,13080,285,0,7
+10/4/2023,Delhi,Delhi,Electronics,26902,121,0,10
+6/10/2023,Punjab,Delhi,Electronics,14486,233,0,6
+11/10/2023,Maharashtra,Mumbai,Electronics,43862,223,1,11
+1/22/2023,Maharashtra,Kolkata,Clothing,26158,68,0,1
+9/10/2023,West Bengal,Kolkata,Clothing,45460,118,0,9
+8/24/2023,Punjab,Kolkata,Electronics,48856,166,0,8
+12/11/2023,Punjab,Amritsar,Electronics,40871,200,0,12
+2/18/2023,Delhi,Mumbai,Clothing,40208,209,0,2
+2/28/2023,Punjab,Kolkata,Grocery,25519,205,0,2
+6/19/2023,Maharashtra,Kolkata,Electronics,36379,44,0,6
+7/7/2023,Punjab,Kolkata,Grocery,33378,255,0,7
+9/28/2023,Delhi,Amritsar,Electronics,44892,246,0,9
+7/9/2023,West Bengal,Amritsar,Grocery,19031,113,0,7
+6/24/2023,Delhi,Delhi,Grocery,19536,16,0,6
+2/20/2023,Delhi,Mumbai,Grocery,5446,292,0,2
+12/30/2023,West Bengal,Delhi,Clothing,41683,10,0,12
+2/24/2023,Delhi,Mumbai,Grocery,22618,228,0,2
+9/1/2023,Delhi,Amritsar,Grocery,11587,239,0,9
+11/16/2023,Punjab,Kolkata,Grocery,36480,181,0,11
+5/11/2023,Punjab,Delhi,Electronics,37994,96,0,5
+11/3/2023,West Bengal,Kolkata,Grocery,25527,50,0,11
+5/15/2023,Punjab,Delhi,Electronics,28569,132,0,5
+1/21/2023,Punjab,Amritsar,Grocery,16151,187,0,1
+11/25/2023,Delhi,Amritsar,Grocery,10558,72,0,11
+6/16/2023,Maharashtra,Amritsar,Clothing,49739,174,0,6
+10/1/2023,Punjab,Delhi,Electronics,37954,196,0,10
+3/30/2023,Maharashtra,Mumbai,Grocery,48837,218,0,3
+11/12/2023,Punjab,Delhi,Electronics,40303,236,1,11
+1/14/2023,Punjab,Mumbai,Electronics,39700,57,0,1
+8/30/2023,West Bengal,Delhi,Clothing,32500,233,0,8
+9/22/2023,West Bengal,Delhi,Clothing,7032,12,0,9
+12/12/2023,West Bengal,Amritsar,Clothing,6252,184,0,12
+2/22/2023,Maharashtra,Kolkata,Clothing,10509,108,0,2
+12/6/2023,Delhi,Kolkata,Clothing,42842,125,0,12
+4/2/2023,Punjab,Mumbai,Clothing,18900,279,0,4
+9/21/2023,Punjab,Kolkata,Clothing,19523,262,0,9
+2/4/2023,Punjab,Delhi,Clothing,6881,104,0,2
+7/25/2023,Maharashtra,Delhi,Grocery,38037,282,0,7
+3/22/2023,West Bengal,Amritsar,Electronics,6630,33,0,3
+2/19/2023,Delhi,Amritsar,Clothing,25789,125,0,2
+12/26/2023,Maharashtra,Kolkata,Clothing,27523,160,1,12
+1/2/2023,West Bengal,Mumbai,Electronics,22958,59,0,1
+2/23/2023,Maharashtra,Kolkata,Grocery,48852,215,0,2
+4/16/2023,Delhi,Kolkata,Electronics,6695,88,0,4
+9/17/2023,West Bengal,Kolkata,Electronics,19821,79,0,9
+11/6/2023,Maharashtra,Kolkata,Clothing,8262,36,0,11
+7/10/2023,Delhi,Delhi,Electronics,6445,280,0,7
+8/6/2023,Punjab,Mumbai,Electronics,21436,59,0,8
+2/13/2023,Delhi,Delhi,Clothing,14949,256,0,2
+6/11/2023,Punjab,Mumbai,Clothing,28963,273,0,6
+7/21/2023,Maharashtra,Amritsar,Clothing,34932,88,0,7
+9/27/2023,West Bengal,Kolkata,Clothing,11901,199,0,9
+12/17/2023,West Bengal,Delhi,Electronics,38487,56,0,12
+10/31/2023,Maharashtra,Mumbai,Electronics,13597,198,0,10
+9/28/2023,West Bengal,Amritsar,Grocery,11855,265,0,9
+8/3/2023,West Bengal,Amritsar,Grocery,23678,231,0,8
+9/9/2023,Punjab,Kolkata,Electronics,13263,250,0,9
+7/9/2023,Maharashtra,Mumbai,Grocery,30805,278,0,7
+10/23/2023,Delhi,Delhi,Electronics,31143,10,1,10
+8/1/2023,Punjab,Kolkata,Grocery,16874,43,0,8
+7/27/2023,Maharashtra,Delhi,Clothing,32529,88,0,7
+8/25/2023,Punjab,Amritsar,Grocery,25866,245,0,8
+12/4/2023,Delhi,Delhi,Clothing,19079,107,0,12
+2/22/2023,Delhi,Delhi,Clothing,12243,91,0,2
+10/7/2023,Maharashtra,Kolkata,Clothing,34872,201,0,10
+8/5/2023,Delhi,Delhi,Clothing,14018,262,0,8
+9/9/2023,Punjab,Kolkata,Grocery,17100,47,0,9
+7/7/2023,Delhi,Amritsar,Electronics,24800,23,0,7
+2/10/2023,Punjab,Kolkata,Clothing,31910,218,0,2
+6/6/2023,Punjab,Kolkata,Grocery,34437,98,0,6
+1/15/2023,Delhi,Mumbai,Clothing,42588,65,0,1
+10/28/2023,Maharashtra,Delhi,Grocery,16001,103,0,10
+3/6/2023,West Bengal,Amritsar,Grocery,24942,102,0,3
+12/11/2023,Delhi,Kolkata,Grocery,25862,94,0,12
+11/23/2023,Punjab,Amritsar,Electronics,16669,254,0,11
+1/9/2023,Punjab,Mumbai,Grocery,20916,31,0,1
+12/10/2023,Delhi,Delhi,Grocery,15878,281,0,12
+5/9/2023,Maharashtra,Kolkata,Electronics,7985,131,0,5
+5/16/2023,Maharashtra,Delhi,Electronics,37369,137,0,5
+3/4/2023,Punjab,Mumbai,Grocery,13112,122,0,3
+5/19/2023,Punjab,Mumbai,Electronics,46235,282,0,5
+3/22/2023,Maharashtra,Amritsar,Clothing,23931,139,0,3
+6/12/2023,West Bengal,Kolkata,Clothing,32340,141,0,6
+10/16/2023,Delhi,Amritsar,Electronics,5336,94,0,10
+9/18/2023,Punjab,Mumbai,Electronics,47933,90,0,9
+8/19/2023,Punjab,Delhi,Grocery,24363,78,0,8
+2/10/2023,Maharashtra,Amritsar,Electronics,8968,157,0,2
+1/28/2023,Delhi,Amritsar,Grocery,38678,25,0,1
+5/15/2023,Maharashtra,Delhi,Clothing,21279,114,0,5
+7/20/2023,Delhi,Amritsar,Electronics,8129,174,0,7
+11/24/2023,Delhi,Delhi,Grocery,43215,210,0,11
+9/25/2023,Delhi,Kolkata,Grocery,43897,206,0,9
+2/2/2023,Punjab,Delhi,Clothing,10850,194,0,2
+2/17/2023,West Bengal,Kolkata,Electronics,25588,274,0,2
+3/3/2023,Maharashtra,Delhi,Clothing,45214,109,0,3
+8/4/2023,West Bengal,Mumbai,Grocery,16949,223,0,8
+10/20/2023,Maharashtra,Mumbai,Grocery,13519,287,1,10
+4/9/2023,Delhi,Kolkata,Electronics,31375,171,0,4
+6/21/2023,Punjab,Kolkata,Grocery,38082,166,0,6
+12/26/2023,West Bengal,Mumbai,Electronics,16737,260,1,12
+8/2/2023,Punjab,Kolkata,Clothing,6134,106,0,8
+2/4/2023,Maharashtra,Delhi,Electronics,15938,27,0,2
+8/15/2023,Punjab,Delhi,Electronics,29486,106,0,8
+4/11/2023,Punjab,Mumbai,Grocery,31096,10,0,4
+5/11/2023,West Bengal,Amritsar,Grocery,46115,225,0,5
+9/14/2023,Delhi,Delhi,Electronics,10592,141,0,9
+1/5/2023,Punjab,Kolkata,Grocery,23108,269,0,1
+8/6/2023,Delhi,Amritsar,Grocery,22270,134,0,8
+9/12/2023,Maharashtra,Amritsar,Grocery,32649,91,0,9
+12/25/2023,Punjab,Delhi,Electronics,15997,292,1,12
+10/10/2023,West Bengal,Delhi,Grocery,38489,180,0,10
+7/26/2023,Maharashtra,Amritsar,Electronics,14104,68,0,7
+1/15/2023,Maharashtra,Amritsar,Grocery,5870,41,0,1
+12/12/2023,West Bengal,Mumbai,Clothing,33684,170,0,12
+2/11/2023,Punjab,Kolkata,Grocery,44519,293,0,2
+6/28/2023,Punjab,Mumbai,Grocery,39524,115,0,6
+3/4/2023,Maharashtra,Delhi,Electronics,35957,114,0,3
+12/18/2023,Punjab,Mumbai,Electronics,38885,237,0,12
+8/19/2023,Delhi,Mumbai,Grocery,49369,197,0,8
+8/29/2023,West Bengal,Mumbai,Clothing,40596,79,0,8
+2/21/2023,Delhi,Mumbai,Grocery,34866,299,0,2
+4/6/2023,Punjab,Kolkata,Grocery,35676,96,0,4
+8/10/2023,Maharashtra,Kolkata,Clothing,18878,65,0,8
+8/19/2023,West Bengal,Amritsar,Electronics,44760,122,0,8
+8/25/2023,Punjab,Delhi,Grocery,32559,22,0,8
+5/23/2023,Punjab,Mumbai,Electronics,11771,27,0,5
+6/20/2023,Maharashtra,Amritsar,Electronics,21526,191,0,6
+1/29/2023,Maharashtra,Amritsar,Clothing,34896,122,0,1
+2/5/2023,Delhi,Amritsar,Clothing,36923,238,0,2
+1/13/2023,West Bengal,Kolkata,Electronics,41203,180,0,1
+6/9/2023,West Bengal,Mumbai,Grocery,44390,198,0,6
+11/23/2023,Maharashtra,Mumbai,Electronics,17852,88,0,11
+7/6/2023,Delhi,Delhi,Grocery,48391,155,0,7
+8/31/2023,West Bengal,Mumbai,Grocery,6848,191,0,8
+3/27/2023,Maharashtra,Mumbai,Clothing,36027,295,0,3
+10/11/2023,Punjab,Amritsar,Grocery,40464,259,0,10
+3/7/2023,West Bengal,Delhi,Grocery,39485,205,0,3
+6/19/2023,Delhi,Mumbai,Electronics,24456,80,0,6
+2/14/2023,Delhi,Kolkata,Clothing,14259,257,0,2
+3/3/2023,Delhi,Mumbai,Grocery,40554,155,0,3
+5/14/2023,Punjab,Amritsar,Grocery,18409,115,0,5
+10/11/2023,West Bengal,Kolkata,Clothing,8791,272,0,10
+1/28/2023,West Bengal,Amritsar,Electronics,30864,79,0,1
+4/18/2023,Punjab,Mumbai,Clothing,41639,202,0,4
+2/13/2023,West Bengal,Kolkata,Clothing,39574,77,0,2
+12/6/2023,Punjab,Delhi,Grocery,22888,61,0,12
+10/13/2023,Punjab,Delhi,Grocery,24692,294,0,10
+11/27/2023,Punjab,Kolkata,Electronics,28501,18,0,11
+5/8/2023,Delhi,Kolkata,Grocery,18304,260,0,5
+12/14/2023,West Bengal,Amritsar,Grocery,32527,193,0,12
+8/19/2023,Punjab,Kolkata,Clothing,23074,188,0,8
+7/9/2023,West Bengal,Amritsar,Grocery,20549,207,0,7
+8/13/2023,Delhi,Mumbai,Electronics,34963,137,0,8
+10/10/2023,Punjab,Amritsar,Clothing,30920,29,0,10
+5/1/2023,Maharashtra,Kolkata,Electronics,35826,74,0,5
+4/26/2023,Delhi,Kolkata,Clothing,41071,191,0,4
+8/21/2023,Maharashtra,Mumbai,Grocery,21061,250,0,8
+9/16/2023,West Bengal,Kolkata,Clothing,33810,33,0,9
+12/25/2023,West Bengal,Kolkata,Clothing,27800,92,1,12
+7/17/2023,Delhi,Delhi,Grocery,48423,194,0,7
+5/17/2023,West Bengal,Delhi,Grocery,46692,108,0,5
+11/14/2023,Maharashtra,Mumbai,Electronics,14940,71,1,11
+6/14/2023,Punjab,Amritsar,Electronics,8924,295,0,6
+8/13/2023,Punjab,Delhi,Grocery,33054,31,0,8
+11/3/2023,Punjab,Amritsar,Grocery,14783,221,0,11
+8/22/2023,Delhi,Kolkata,Grocery,42253,135,0,8
+6/21/2023,West Bengal,Delhi,Clothing,18233,51,0,6
+6/1/2023,Maharashtra,Mumbai,Clothing,29484,107,0,6
+11/11/2023,West Bengal,Mumbai,Clothing,30068,40,1,11
+6/9/2023,West Bengal,Mumbai,Grocery,5191,167,0,6
+4/6/2023,West Bengal,Delhi,Electronics,30074,121,0,4
+8/21/2023,Punjab,Amritsar,Grocery,9917,256,0,8
+6/29/2023,Maharashtra,Kolkata,Clothing,43599,131,0,6
+4/23/2023,Maharashtra,Amritsar,Clothing,30832,282,1,4
+11/14/2023,West Bengal,Amritsar,Grocery,47928,216,1,11
+2/21/2023,Punjab,Kolkata,Grocery,25706,119,0,2
+9/25/2023,Punjab,Kolkata,Clothing,18682,287,0,9
+10/22/2023,Maharashtra,Delhi,Clothing,31762,65,1,10
+4/23/2023,Punjab,Delhi,Clothing,28383,66,1,4
+4/11/2023,Punjab,Delhi,Grocery,32796,123,0,4
+4/23/2023,Punjab,Delhi,Clothing,28666,207,1,4
+3/22/2023,Delhi,Delhi,Clothing,30662,188,0,3
+7/6/2023,West Bengal,Kolkata,Electronics,39642,228,0,7
+4/23/2023,Maharashtra,Amritsar,Grocery,46830,286,1,4
+1/2/2023,Maharashtra,Delhi,Electronics,42531,25,0,1
+5/10/2023,Delhi,Delhi,Electronics,15234,70,0,5
+8/8/2023,West Bengal,Amritsar,Clothing,14221,63,0,8
+2/23/2023,Maharashtra,Delhi,Grocery,16410,177,0,2
+12/9/2023,Punjab,Amritsar,Clothing,19519,35,0,12
+8/12/2023,Maharashtra,Amritsar,Grocery,6051,74,0,8
+8/13/2023,Punjab,Kolkata,Electronics,49993,109,0,8
+5/6/2023,Delhi,Mumbai,Grocery,14765,83,0,5
+5/10/2023,Punjab,Kolkata,Clothing,16382,201,0,5
+2/22/2023,Maharashtra,Mumbai,Clothing,17580,180,0,2
+6/21/2023,Maharashtra,Mumbai,Clothing,37323,282,0,6
+8/6/2023,Maharashtra,Mumbai,Grocery,49757,196,0,8
+6/9/2023,Delhi,Delhi,Electronics,16939,32,0,6
+7/17/2023,Delhi,Kolkata,Electronics,34964,190,0,7
+9/4/2023,West Bengal,Mumbai,Grocery,5307,117,0,9
+11/20/2023,Maharashtra,Amritsar,Clothing,8359,171,0,11
+7/22/2023,Punjab,Delhi,Electronics,34648,215,0,7
+7/3/2023,Delhi,Kolkata,Clothing,40944,87,0,7
+5/3/2023,Maharashtra,Mumbai,Grocery,39019,25,0,5
+9/12/2023,Maharashtra,Amritsar,Clothing,43134,105,0,9
+10/21/2023,Delhi,Kolkata,Electronics,32323,156,1,10
+10/7/2023,West Bengal,Kolkata,Electronics,11226,11,0,10
+11/21/2023,Delhi,Delhi,Clothing,26689,19,0,11
+4/8/2023,Delhi,Kolkata,Grocery,35971,134,0,4
+7/17/2023,Punjab,Delhi,Clothing,30954,90,0,7
+8/28/2023,Punjab,Mumbai,Grocery,29423,149,0,8
+5/24/2023,West Bengal,Delhi,Clothing,35391,159,0,5
+4/7/2023,Maharashtra,Amritsar,Electronics,19330,297,0,4
+7/20/2023,Delhi,Delhi,Grocery,9891,138,0,7
+5/4/2023,West Bengal,Amritsar,Grocery,9992,248,0,5
+7/6/2023,Punjab,Delhi,Grocery,6961,67,0,7
+11/22/2023,Delhi,Kolkata,Electronics,17497,207,0,11
+12/15/2023,Maharashtra,Mumbai,Clothing,37551,220,0,12
+9/16/2023,Punjab,Amritsar,Electronics,15848,54,0,9
+5/28/2023,Punjab,Delhi,Grocery,18255,106,0,5
+9/9/2023,Punjab,Delhi,Clothing,9567,288,0,9
+12/12/2023,West Bengal,Delhi,Electronics,44281,32,0,12
+5/27/2023,Maharashtra,Kolkata,Grocery,25389,53,0,5
+5/28/2023,Delhi,Kolkata,Grocery,49523,36,0,5
+12/18/2023,West Bengal,Amritsar,Electronics,48919,291,0,12
+7/18/2023,West Bengal,Amritsar,Electronics,21567,106,0,7
+11/4/2023,West Bengal,Kolkata,Electronics,8358,45,0,11
+5/8/2023,Punjab,Amritsar,Grocery,27999,118,0,5
+2/8/2023,Maharashtra,Mumbai,Electronics,47358,64,0,2
+12/4/2023,West Bengal,Mumbai,Grocery,15988,201,0,12
+12/26/2023,Delhi,Kolkata,Electronics,45446,228,1,12
+5/9/2023,Maharashtra,Amritsar,Grocery,36521,194,0,5
+9/24/2023,Delhi,Delhi,Grocery,10698,78,0,9
+5/31/2023,Maharashtra,Mumbai,Clothing,6273,139,0,5
+10/25/2023,Delhi,Kolkata,Electronics,32543,64,0,10
+4/9/2023,Punjab,Amritsar,Electronics,36349,106,0,4
+9/20/2023,West Bengal,Kolkata,Grocery,16241,96,0,9
+9/9/2023,Delhi,Delhi,Grocery,14497,128,0,9
+5/24/2023,Maharashtra,Mumbai,Grocery,46875,217,0,5
+12/12/2023,West Bengal,Kolkata,Clothing,37703,163,0,12
+4/22/2023,West Bengal,Kolkata,Clothing,49041,44,1,4
+3/1/2023,Maharashtra,Kolkata,Grocery,36954,88,0,3
+1/2/2023,Delhi,Delhi,Electronics,13002,76,0,1
+10/31/2023,Punjab,Kolkata,Electronics,9247,43,0,10
+9/11/2023,Punjab,Delhi,Clothing,46988,106,0,9
+5/20/2023,Delhi,Delhi,Clothing,26698,178,0,5
+2/6/2023,West Bengal,Delhi,Grocery,24738,178,0,2
+6/9/2023,West Bengal,Mumbai,Electronics,15703,160,0,6
+1/9/2023,West Bengal,Mumbai,Grocery,22570,80,0,1
+8/21/2023,West Bengal,Kolkata,Clothing,17392,12,0,8
+4/9/2023,Delhi,Kolkata,Electronics,49724,41,0,4
+5/27/2023,West Bengal,Mumbai,Electronics,37299,296,0,5
+10/31/2023,Maharashtra,Amritsar,Clothing,20641,91,0,10
+7/27/2023,West Bengal,Mumbai,Grocery,18998,52,0,7
+5/11/2023,Punjab,Delhi,Grocery,11305,114,0,5
+6/1/2023,West Bengal,Mumbai,Electronics,37726,10,0,6
+2/23/2023,Delhi,Delhi,Clothing,23782,70,0,2
+4/30/2023,Punjab,Kolkata,Electronics,17721,279,0,4
+6/10/2023,Delhi,Amritsar,Clothing,44763,189,0,6
+4/26/2023,Delhi,Kolkata,Grocery,17427,233,0,4
+3/16/2023,Punjab,Delhi,Clothing,25566,15,0,3
+4/23/2023,Delhi,Delhi,Grocery,7230,112,1,4
+4/14/2023,Delhi,Delhi,Clothing,11511,19,0,4
+12/6/2023,West Bengal,Amritsar,Electronics,47229,80,0,12
+9/11/2023,Maharashtra,Mumbai,Grocery,31177,99,0,9
+8/15/2023,Delhi,Kolkata,Electronics,9765,235,0,8
+4/22/2023,Delhi,Kolkata,Electronics,25354,167,1,4
+4/9/2023,Delhi,Mumbai,Grocery,28929,237,0,4
+6/2/2023,West Bengal,Kolkata,Grocery,33820,135,0,6
+12/15/2023,Maharashtra,Amritsar,Electronics,34523,218,0,12
+12/4/2023,Punjab,Kolkata,Electronics,10552,106,0,12
+7/13/2023,West Bengal,Delhi,Electronics,5627,83,0,7
+11/6/2023,West Bengal,Mumbai,Electronics,16989,124,0,11
+6/12/2023,Maharashtra,Amritsar,Grocery,18780,200,0,6
+7/27/2023,Maharashtra,Mumbai,Grocery,11589,179,0,7
+6/18/2023,West Bengal,Amritsar,Electronics,39812,213,0,6
+6/10/2023,Punjab,Delhi,Clothing,33128,65,0,6
+3/9/2023,West Bengal,Mumbai,Clothing,43652,217,0,3
+10/16/2023,Maharashtra,Kolkata,Grocery,32790,50,0,10
+10/4/2023,Punjab,Amritsar,Electronics,45953,41,0,10
+10/31/2023,Maharashtra,Mumbai,Electronics,5249,24,0,10
+5/15/2023,Punjab,Kolkata,Grocery,24309,71,0,5
+7/14/2023,Delhi,Mumbai,Clothing,30901,164,0,7
+5/8/2023,Maharashtra,Mumbai,Clothing,28576,293,0,5
+2/2/2023,Maharashtra,Mumbai,Clothing,36508,218,0,2
+6/25/2023,West Bengal,Amritsar,Grocery,14175,196,0,6
+1/22/2023,Maharashtra,Kolkata,Clothing,30464,139,0,1
+8/26/2023,Maharashtra,Delhi,Grocery,21260,136,0,8
+6/7/2023,Delhi,Amritsar,Grocery,40440,123,0,6
+2/7/2023,Maharashtra,Amritsar,Electronics,34546,208,0,2
+8/18/2023,Delhi,Amritsar,Clothing,45047,22,0,8
+12/31/2023,Delhi,Delhi,Grocery,46430,280,0,12
+2/20/2023,Delhi,Kolkata,Clothing,6987,98,0,2
+9/21/2023,Delhi,Kolkata,Clothing,30105,224,0,9
+10/10/2023,Punjab,Kolkata,Electronics,17948,287,0,10
+1/27/2023,West Bengal,Mumbai,Clothing,18026,212,0,1
+8/14/2023,Punjab,Mumbai,Electronics,7773,83,0,8
+10/4/2023,Maharashtra,Mumbai,Grocery,14878,34,0,10
+10/13/2023,Punjab,Delhi,Clothing,47946,110,0,10
+4/7/2023,Punjab,Mumbai,Grocery,15377,185,0,4
+10/11/2023,Maharashtra,Delhi,Clothing,12347,126,0,10
+11/13/2023,Maharashtra,Kolkata,Grocery,38776,175,1,11
+10/31/2023,Maharashtra,Mumbai,Clothing,8783,50,0,10
+5/27/2023,Punjab,Mumbai,Clothing,9298,129,0,5
+1/4/2023,Punjab,Amritsar,Clothing,9668,106,0,1
+2/4/2023,Maharashtra,Delhi,Clothing,25671,154,0,2
+7/11/2023,West Bengal,Kolkata,Clothing,39820,225,0,7
+2/18/2023,West Bengal,Amritsar,Clothing,39484,238,0,2
+1/17/2023,Delhi,Amritsar,Clothing,38078,139,0,1
+6/21/2023,Maharashtra,Kolkata,Clothing,25922,146,0,6
+8/8/2023,Delhi,Amritsar,Clothing,39028,282,0,8
+6/7/2023,West Bengal,Delhi,Grocery,25316,126,0,6
+2/15/2023,Delhi,Delhi,Electronics,16460,103,0,2
+1/6/2023,Maharashtra,Mumbai,Clothing,21968,177,0,1
+4/9/2023,Maharashtra,Amritsar,Electronics,35266,212,0,4
+8/21/2023,Maharashtra,Mumbai,Clothing,35209,158,0,8
+2/6/2023,Punjab,Amritsar,Clothing,29000,192,0,2
+10/7/2023,Delhi,Delhi,Grocery,19011,161,0,10
+12/15/2023,West Bengal,Delhi,Grocery,7866,83,0,12
+10/29/2023,West Bengal,Delhi,Electronics,10898,283,0,10
+6/30/2023,West Bengal,Amritsar,Grocery,23395,51,0,6
+4/5/2023,Punjab,Delhi,Grocery,44019,221,0,4
+4/9/2023,Punjab,Amritsar,Electronics,42707,110,0,4
+7/7/2023,Maharashtra,Mumbai,Grocery,9006,54,0,7
+4/26/2023,West Bengal,Amritsar,Clothing,39393,91,0,4
+7/10/2023,Punjab,Mumbai,Electronics,15956,26,0,7
+9/10/2023,Maharashtra,Amritsar,Electronics,35663,82,0,9
+6/10/2023,West Bengal,Mumbai,Clothing,11078,23,0,6
+9/13/2023,Delhi,Delhi,Grocery,34631,166,0,9
+11/19/2023,Maharashtra,Mumbai,Electronics,35140,232,0,11
+5/8/2023,Punjab,Delhi,Electronics,46691,141,0,5
+1/18/2023,Punjab,Delhi,Clothing,8961,56,0,1
+10/8/2023,Maharashtra,Mumbai,Clothing,34277,116,0,10
+8/11/2023,Maharashtra,Amritsar,Grocery,46574,117,0,8
+2/23/2023,Punjab,Amritsar,Electronics,36417,274,0,2
+2/27/2023,Delhi,Kolkata,Grocery,27484,214,0,2
+11/19/2023,West Bengal,Amritsar,Grocery,23103,88,0,11
+12/26/2023,Delhi,Kolkata,Clothing,34345,164,1,12
+6/23/2023,Maharashtra,Amritsar,Electronics,44454,280,0,6
+10/7/2023,Delhi,Amritsar,Electronics,6587,256,0,10
+4/24/2023,Punjab,Delhi,Electronics,47571,28,0,4
+10/15/2023,Maharashtra,Kolkata,Clothing,26031,35,0,10
+12/8/2023,West Bengal,Amritsar,Clothing,31212,226,0,12
+5/31/2023,Punjab,Kolkata,Clothing,15350,163,0,5
+5/7/2023,Punjab,Delhi,Clothing,23816,163,0,5
+6/4/2023,West Bengal,Delhi,Clothing,25288,183,0,6
+9/30/2023,West Bengal,Kolkata,Electronics,34432,101,0,9
+4/14/2023,Delhi,Delhi,Grocery,49222,190,0,4
+10/26/2023,Maharashtra,Mumbai,Electronics,11837,140,0,10
+9/3/2023,West Bengal,Mumbai,Grocery,39217,284,0,9
+6/25/2023,West Bengal,Delhi,Clothing,25884,282,0,6
+2/8/2023,Maharashtra,Mumbai,Grocery,10454,85,0,2
+6/19/2023,West Bengal,Amritsar,Electronics,14424,186,0,6
+9/4/2023,West Bengal,Kolkata,Electronics,41885,193,0,9
+1/26/2023,Delhi,Amritsar,Grocery,46637,140,0,1
+12/21/2023,Punjab,Kolkata,Clothing,48618,58,0,12
+11/2/2023,Punjab,Delhi,Clothing,23412,64,0,11
+1/13/2023,Punjab,Amritsar,Electronics,44613,163,0,1
+11/12/2023,Punjab,Delhi,Grocery,25142,209,1,11
+11/9/2023,West Bengal,Delhi,Clothing,42392,127,0,11
+2/5/2023,Maharashtra,Kolkata,Clothing,13848,272,0,2
+6/22/2023,Maharashtra,Kolkata,Electronics,18136,55,0,6
+1/20/2023,Delhi,Kolkata,Clothing,5589,198,0,1
+11/17/2023,Delhi,Amritsar,Grocery,25908,138,0,11
+9/21/2023,West Bengal,Mumbai,Electronics,11509,58,0,9
+5/22/2023,Maharashtra,Kolkata,Electronics,45461,34,0,5
+5/23/2023,Maharashtra,Kolkata,Grocery,47222,275,0,5
+4/2/2023,Punjab,Amritsar,Electronics,49476,127,0,4
+12/20/2023,West Bengal,Kolkata,Clothing,14968,153,0,12
+11/18/2023,West Bengal,Amritsar,Clothing,7462,209,0,11
+10/15/2023,Punjab,Delhi,Grocery,14460,166,0,10
+8/3/2023,West Bengal,Kolkata,Clothing,38783,143,0,8
+12/8/2023,West Bengal,Kolkata,Grocery,14275,157,0,12
+2/20/2023,Delhi,Delhi,Grocery,33677,80,0,2
+6/2/2023,Maharashtra,Delhi,Clothing,18269,242,0,6
+7/5/2023,West Bengal,Delhi,Grocery,5406,163,0,7
+3/4/2023,Delhi,Kolkata,Clothing,12384,99,0,3
+7/9/2023,Maharashtra,Mumbai,Electronics,27553,208,0,7
+5/5/2023,Punjab,Mumbai,Electronics,29366,170,0,5
+5/30/2023,Delhi,Mumbai,Grocery,49036,35,0,5
+11/10/2023,Delhi,Kolkata,Clothing,22369,130,1,11
+2/27/2023,Maharashtra,Delhi,Clothing,16795,221,0,2
+12/8/2023,Punjab,Kolkata,Electronics,9485,72,0,12
+11/1/2023,Delhi,Delhi,Electronics,46669,77,0,11
+6/29/2023,West Bengal,Kolkata,Clothing,7618,262,0,6
+6/19/2023,West Bengal,Kolkata,Grocery,35143,11,0,6
+11/22/2023,West Bengal,Delhi,Electronics,34425,117,0,11
+9/28/2023,Punjab,Mumbai,Grocery,27673,295,0,9
+2/23/2023,Delhi,Delhi,Grocery,14603,58,0,2
+4/11/2023,West Bengal,Amritsar,Electronics,44696,149,0,4
+9/21/2023,Punjab,Amritsar,Grocery,10368,227,0,9
+2/22/2023,West Bengal,Delhi,Grocery,9621,53,0,2
+3/1/2023,Maharashtra,Kolkata,Clothing,19719,278,0,3
+4/18/2023,Delhi,Amritsar,Grocery,34227,87,0,4
+1/5/2023,Delhi,Amritsar,Clothing,48894,225,0,1
+4/13/2023,Punjab,Kolkata,Electronics,12566,107,0,4
+7/15/2023,Punjab,Kolkata,Electronics,17306,245,0,7
+9/19/2023,Delhi,Mumbai,Clothing,29042,291,0,9
+12/31/2023,West Bengal,Kolkata,Electronics,20086,158,0,12
+12/16/2023,West Bengal,Delhi,Grocery,22387,75,0,12
+2/16/2023,Maharashtra,Delhi,Grocery,32042,243,0,2
+12/21/2023,West Bengal,Mumbai,Grocery,28888,96,0,12
+11/7/2023,Punjab,Amritsar,Electronics,31514,88,0,11
+11/4/2023,Punjab,Amritsar,Grocery,23323,214,0,11
+5/24/2023,West Bengal,Kolkata,Electronics,23019,288,0,5
+9/26/2023,Punjab,Delhi,Grocery,14890,263,0,9
+5/4/2023,Delhi,Amritsar,Clothing,45863,139,0,5
+4/16/2023,Delhi,Mumbai,Electronics,15283,93,0,4
+6/7/2023,West Bengal,Mumbai,Electronics,23279,285,0,6
+5/27/2023,Delhi,Delhi,Grocery,27908,196,0,5
+5/25/2023,Delhi,Mumbai,Electronics,42952,55,0,5
+4/30/2023,Maharashtra,Mumbai,Electronics,40170,192,0,4
+11/15/2023,Maharashtra,Delhi,Clothing,42663,277,1,11
+10/2/2023,Delhi,Kolkata,Clothing,49172,109,0,10
+4/2/2023,West Bengal,Kolkata,Grocery,14343,87,0,4
+2/27/2023,Maharashtra,Mumbai,Clothing,15637,281,0,2
+12/12/2023,Punjab,Kolkata,Grocery,39724,171,0,12
+8/17/2023,Punjab,Kolkata,Grocery,44791,53,0,8
+4/27/2023,Punjab,Mumbai,Grocery,34134,247,0,4
+11/14/2023,West Bengal,Kolkata,Electronics,8907,143,1,11
+10/6/2023,Delhi,Mumbai,Clothing,38575,201,0,10
+5/7/2023,Punjab,Amritsar,Grocery,9827,287,0,5
+5/9/2023,West Bengal,Delhi,Clothing,35607,27,0,5
+2/27/2023,Maharashtra,Delhi,Grocery,18699,21,0,2
+5/2/2023,Delhi,Kolkata,Clothing,42292,189,0,5
+1/1/2023,Maharashtra,Kolkata,Clothing,30883,132,0,1
+8/27/2023,West Bengal,Kolkata,Grocery,10313,255,0,8
+10/17/2023,Punjab,Delhi,Electronics,18598,231,0,10
+4/6/2023,Punjab,Amritsar,Clothing,33807,60,0,4
+5/6/2023,West Bengal,Amritsar,Electronics,9887,80,0,5
+4/28/2023,Punjab,Delhi,Electronics,8854,57,0,4
+2/17/2023,Delhi,Amritsar,Grocery,19536,28,0,2
+3/30/2023,West Bengal,Delhi,Grocery,8558,271,0,3
+8/25/2023,Maharashtra,Amritsar,Grocery,14772,93,0,8
+9/29/2023,West Bengal,Mumbai,Clothing,41343,164,0,9
+7/8/2023,Delhi,Mumbai,Grocery,40186,62,0,7
+7/11/2023,Delhi,Delhi,Grocery,41966,116,0,7
+3/10/2023,West Bengal,Amritsar,Clothing,38769,144,0,3
+10/5/2023,West Bengal,Kolkata,Clothing,44887,78,0,10
+12/15/2023,Punjab,Amritsar,Grocery,24229,20,0,12
+9/4/2023,Delhi,Mumbai,Grocery,14673,152,0,9
+3/17/2023,West Bengal,Mumbai,Grocery,32877,201,0,3
+6/3/2023,West Bengal,Amritsar,Grocery,36601,78,0,6
+5/24/2023,Delhi,Amritsar,Electronics,43084,32,0,5
+3/27/2023,West Bengal,Kolkata,Electronics,21244,190,0,3
+7/4/2023,Punjab,Kolkata,Grocery,32356,18,0,7
+10/12/2023,Delhi,Amritsar,Electronics,21806,280,0,10
+8/8/2023,Punjab,Amritsar,Clothing,28099,102,0,8
+3/10/2023,Punjab,Amritsar,Electronics,49641,26,0,3
+2/16/2023,Punjab,Amritsar,Electronics,42034,163,0,2
+4/4/2023,Punjab,Delhi,Grocery,45317,158,0,4
+8/26/2023,Delhi,Amritsar,Electronics,24094,276,0,8
+7/23/2023,Punjab,Kolkata,Electronics,15589,115,0,7
+8/6/2023,Punjab,Mumbai,Electronics,6657,44,0,8
+12/7/2023,West Bengal,Delhi,Electronics,37764,128,0,12
+2/8/2023,Delhi,Amritsar,Clothing,44531,23,0,2
+4/10/2023,Delhi,Mumbai,Grocery,8164,23,0,4
+10/16/2023,Maharashtra,Delhi,Grocery,32542,275,0,10
+9/11/2023,Delhi,Mumbai,Clothing,23437,149,0,9
+8/10/2023,Delhi,Amritsar,Electronics,46247,128,0,8
+12/23/2023,Maharashtra,Amritsar,Clothing,43505,247,0,12
+1/23/2023,Delhi,Kolkata,Electronics,24601,43,0,1
+9/7/2023,Delhi,Amritsar,Clothing,33430,178,0,9
+1/10/2023,Delhi,Amritsar,Grocery,11009,19,0,1
+9/3/2023,Delhi,Delhi,Grocery,9552,131,0,9
+11/21/2023,Maharashtra,Kolkata,Grocery,14417,154,0,11
+4/10/2023,Delhi,Delhi,Electronics,46989,232,0,4
+10/17/2023,Delhi,Mumbai,Electronics,7671,266,0,10
+6/29/2023,Maharashtra,Amritsar,Clothing,11519,277,0,6
+8/11/2023,West Bengal,Mumbai,Clothing,41730,13,0,8
+9/7/2023,Punjab,Delhi,Grocery,17734,115,0,9
+5/27/2023,West Bengal,Amritsar,Electronics,8722,94,0,5
+4/6/2023,Maharashtra,Amritsar,Clothing,9906,223,0,4
+9/14/2023,Punjab,Delhi,Electronics,35096,130,0,9
+11/21/2023,Maharashtra,Delhi,Electronics,45031,141,0,11
+1/4/2023,Maharashtra,Delhi,Grocery,18699,206,0,1
+1/16/2023,Delhi,Delhi,Grocery,26438,28,0,1
+10/7/2023,Punjab,Delhi,Electronics,48856,139,0,10
+12/2/2023,Delhi,Amritsar,Electronics,38576,21,0,12
+9/4/2023,Punjab,Delhi,Electronics,46938,90,0,9
+9/15/2023,Maharashtra,Amritsar,Electronics,37247,271,0,9
+6/9/2023,Maharashtra,Amritsar,Grocery,48461,134,0,6
+12/6/2023,West Bengal,Delhi,Clothing,32938,276,0,12
+6/1/2023,Punjab,Delhi,Grocery,45469,149,0,6
+6/27/2023,Delhi,Kolkata,Clothing,22600,11,0,6
+6/12/2023,West Bengal,Amritsar,Electronics,25435,17,0,6
+2/2/2023,West Bengal,Delhi,Clothing,23581,259,0,2
+6/28/2023,West Bengal,Delhi,Grocery,19191,148,0,6
+4/11/2023,Delhi,Delhi,Grocery,24190,133,0,4
+9/25/2023,West Bengal,Kolkata,Electronics,32386,237,0,9
+11/19/2023,Delhi,Kolkata,Grocery,36721,19,0,11
+3/6/2023,West Bengal,Mumbai,Electronics,18704,221,0,3
+6/17/2023,Delhi,Amritsar,Grocery,7123,121,0,6
+11/26/2023,Maharashtra,Mumbai,Grocery,30174,17,0,11
+2/12/2023,Maharashtra,Delhi,Electronics,49301,262,0,2
+2/13/2023,Maharashtra,Kolkata,Clothing,19586,23,0,2
+10/12/2023,Maharashtra,Kolkata,Grocery,36976,249,0,10
+1/12/2023,Maharashtra,Mumbai,Clothing,30416,251,0,1
+4/5/2023,West Bengal,Kolkata,Grocery,6814,158,0,4
+10/29/2023,West Bengal,Delhi,Grocery,18001,245,0,10
+9/10/2023,West Bengal,Kolkata,Grocery,21508,176,0,9
+8/30/2023,Delhi,Mumbai,Grocery,24630,29,0,8
+2/4/2023,Delhi,Delhi,Clothing,18380,225,0,2
+8/3/2023,Delhi,Mumbai,Clothing,40699,144,0,8
+12/3/2023,Delhi,Kolkata,Grocery,17317,138,0,12
+3/31/2023,Maharashtra,Mumbai,Grocery,40739,255,0,3
+9/21/2023,Maharashtra,Mumbai,Clothing,39785,198,0,9
+4/3/2023,Maharashtra,Amritsar,Electronics,36980,53,0,4
+3/31/2023,Punjab,Kolkata,Electronics,28799,95,0,3
+4/25/2023,West Bengal,Kolkata,Clothing,40183,53,0,4
+4/15/2023,Delhi,Mumbai,Grocery,34166,154,0,4
+7/15/2023,Delhi,Amritsar,Grocery,24480,60,0,7
+11/10/2023,Maharashtra,Kolkata,Electronics,6609,251,1,11
+4/24/2023,Delhi,Delhi,Electronics,5717,60,0,4
+3/16/2023,Delhi,Mumbai,Clothing,24945,275,0,3
+8/5/2023,West Bengal,Kolkata,Electronics,30592,129,0,8
+10/4/2023,Maharashtra,Delhi,Clothing,33141,209,0,10
+9/6/2023,West Bengal,Kolkata,Electronics,35009,257,0,9
+6/13/2023,Punjab,Delhi,Electronics,11782,79,0,6
+12/23/2023,Punjab,Mumbai,Electronics,31536,66,0,12
+7/11/2023,Punjab,Kolkata,Grocery,38816,48,0,7
+8/15/2023,Maharashtra,Kolkata,Grocery,30933,298,0,8
+6/26/2023,Delhi,Amritsar,Grocery,16618,27,0,6
+4/9/2023,Maharashtra,Mumbai,Electronics,13307,229,0,4
+2/5/2023,Maharashtra,Delhi,Clothing,31671,253,0,2
+4/6/2023,Delhi,Kolkata,Clothing,45673,292,0,4
+6/1/2023,West Bengal,Kolkata,Clothing,47761,83,0,6
+5/31/2023,Punjab,Delhi,Clothing,15338,119,0,5
+7/9/2023,West Bengal,Mumbai,Grocery,43346,189,0,7
+8/12/2023,Punjab,Amritsar,Grocery,11548,41,0,8
+2/6/2023,Maharashtra,Amritsar,Electronics,45149,243,0,2
+9/25/2023,Punjab,Kolkata,Electronics,26164,291,0,9
+7/2/2023,Maharashtra,Delhi,Clothing,32526,34,0,7
+1/13/2023,West Bengal,Kolkata,Grocery,36222,288,0,1
+10/6/2023,Maharashtra,Delhi,Clothing,25176,235,0,10
+8/5/2023,West Bengal,Amritsar,Electronics,7941,66,0,8
+12/21/2023,Delhi,Mumbai,Electronics,10695,189,0,12
+12/27/2023,Delhi,Delhi,Clothing,44169,241,0,12
+10/13/2023,Delhi,Amritsar,Electronics,30553,296,0,10
+9/30/2023,Maharashtra,Kolkata,Clothing,43965,73,0,9
+3/3/2023,Delhi,Delhi,Grocery,43218,241,0,3
+3/25/2023,Punjab,Mumbai,Clothing,30359,298,0,3
+8/5/2023,West Bengal,Kolkata,Grocery,29816,222,0,8
+12/8/2023,West Bengal,Kolkata,Grocery,13378,267,0,12
+7/6/2023,Punjab,Amritsar,Electronics,6881,27,0,7
+1/19/2023,Maharashtra,Delhi,Electronics,44567,184,0,1
+6/26/2023,Maharashtra,Kolkata,Electronics,18675,238,0,6
+4/10/2023,West Bengal,Mumbai,Clothing,9586,235,0,4
+8/21/2023,Delhi,Delhi,Clothing,30006,93,0,8
+3/17/2023,Maharashtra,Mumbai,Electronics,46198,255,0,3
+9/22/2023,Maharashtra,Kolkata,Clothing,27831,119,0,9
+10/11/2023,Punjab,Mumbai,Electronics,40113,263,0,10
+7/25/2023,Punjab,Amritsar,Clothing,21459,97,0,7
+8/11/2023,Delhi,Mumbai,Grocery,37443,81,0,8
+2/21/2023,Maharashtra,Delhi,Grocery,47316,39,0,2
+12/5/2023,Maharashtra,Mumbai,Electronics,35595,181,0,12
+5/24/2023,Punjab,Mumbai,Clothing,10877,186,0,5
+3/10/2023,Maharashtra,Amritsar,Clothing,44553,148,0,3
+4/9/2023,West Bengal,Mumbai,Grocery,9922,203,0,4
+1/25/2023,Punjab,Mumbai,Grocery,9686,195,0,1
+2/22/2023,Delhi,Kolkata,Electronics,37766,227,0,2
+5/31/2023,Punjab,Kolkata,Grocery,19407,173,0,5
+5/24/2023,Maharashtra,Delhi,Electronics,37006,170,0,5
+2/26/2023,Delhi,Kolkata,Grocery,36422,22,0,2
+2/8/2023,Punjab,Kolkata,Grocery,17205,98,0,2
+4/19/2023,West Bengal,Kolkata,Clothing,26054,51,0,4
+6/30/2023,West Bengal,Kolkata,Grocery,28527,219,0,6
+2/11/2023,Punjab,Amritsar,Grocery,23443,238,0,2
+7/5/2023,West Bengal,Kolkata,Electronics,21524,284,0,7
+8/11/2023,West Bengal,Amritsar,Grocery,33202,288,0,8
+5/2/2023,West Bengal,Amritsar,Electronics,5016,260,0,5
+5/13/2023,Delhi,Kolkata,Grocery,21848,217,0,5
+6/12/2023,West Bengal,Mumbai,Grocery,25855,149,0,6
+8/3/2023,West Bengal,Amritsar,Electronics,23211,289,0,8
+8/9/2023,West Bengal,Mumbai,Clothing,30095,43,0,8
+8/23/2023,Delhi,Mumbai,Electronics,43724,27,0,8
+11/27/2023,Punjab,Kolkata,Electronics,42583,66,0,11
+5/26/2023,Maharashtra,Delhi,Electronics,7843,121,0,5
+8/27/2023,West Bengal,Kolkata,Clothing,34301,14,0,8
+3/17/2023,Punjab,Delhi,Grocery,31460,191,0,3
+1/9/2023,West Bengal,Delhi,Electronics,36918,22,0,1
+3/15/2023,Delhi,Kolkata,Electronics,33747,294,0,3
+9/10/2023,Punjab,Kolkata,Clothing,20972,268,0,9
+8/18/2023,Delhi,Delhi,Electronics,33310,99,0,8
+1/7/2023,West Bengal,Kolkata,Grocery,27927,113,0,1
+6/23/2023,West Bengal,Delhi,Clothing,6094,195,0,6
+5/21/2023,Delhi,Mumbai,Grocery,43892,259,0,5
+6/17/2023,Maharashtra,Kolkata,Grocery,39172,264,0,6
+6/19/2023,Delhi,Mumbai,Clothing,28324,85,0,6
+10/10/2023,West Bengal,Amritsar,Electronics,25674,117,0,10
+5/2/2023,Delhi,Mumbai,Grocery,8982,165,0,5
+7/13/2023,Maharashtra,Mumbai,Grocery,20790,91,0,7
+1/5/2023,Delhi,Delhi,Grocery,17205,86,0,1
+1/29/2023,Maharashtra,Mumbai,Grocery,29338,267,0,1
+6/14/2023,Maharashtra,Kolkata,Clothing,17748,136,0,6
+12/5/2023,Delhi,Delhi,Clothing,26097,291,0,12
+5/16/2023,Delhi,Amritsar,Grocery,8092,97,0,5
+12/31/2023,Punjab,Kolkata,Electronics,27692,213,0,12
+11/17/2023,West Bengal,Amritsar,Grocery,28862,25,0,11
+12/8/2023,Maharashtra,Mumbai,Electronics,29860,160,0,12
+5/25/2023,Punjab,Kolkata,Grocery,18971,263,0,5
+11/23/2023,Delhi,Kolkata,Electronics,19616,197,0,11
+8/5/2023,West Bengal,Amritsar,Grocery,9933,41,0,8
+10/28/2023,Punjab,Kolkata,Electronics,9926,280,0,10
+5/12/2023,Maharashtra,Kolkata,Grocery,30763,14,0,5
+10/19/2023,Punjab,Kolkata,Grocery,8969,178,0,10
+3/11/2023,Maharashtra,Mumbai,Electronics,40733,190,0,3
+9/9/2023,Delhi,Amritsar,Clothing,9319,187,0,9
+10/2/2023,West Bengal,Kolkata,Electronics,46743,152,0,10
+12/30/2023,West Bengal,Delhi,Clothing,44876,257,0,12
+7/1/2023,West Bengal,Delhi,Grocery,46909,136,0,7
+6/16/2023,Delhi,Delhi,Electronics,25323,272,0,6
+4/1/2023,Maharashtra,Delhi,Electronics,21428,49,0,4
+7/21/2023,Delhi,Mumbai,Electronics,39578,264,0,7
+12/12/2023,West Bengal,Kolkata,Clothing,25950,152,0,12
+1/19/2023,Delhi,Amritsar,Clothing,48041,249,0,1
+2/8/2023,Delhi,Kolkata,Grocery,46789,237,0,2
+5/6/2023,Delhi,Mumbai,Clothing,23293,207,0,5
+6/22/2023,Maharashtra,Delhi,Clothing,11364,74,0,6
+5/21/2023,Punjab,Mumbai,Grocery,40349,20,0,5
+8/30/2023,Punjab,Kolkata,Electronics,5691,117,0,8
+8/8/2023,Delhi,Amritsar,Electronics,35062,35,0,8
+5/6/2023,Punjab,Mumbai,Grocery,5931,160,0,5
+2/27/2023,Punjab,Amritsar,Electronics,36730,230,0,2
+5/28/2023,Delhi,Mumbai,Clothing,19226,246,0,5
+11/13/2023,Delhi,Amritsar,Grocery,18861,246,1,11
+12/27/2023,West Bengal,Amritsar,Grocery,36301,228,0,12
+1/1/2023,Punjab,Delhi,Grocery,27766,160,0,1
+12/14/2023,Maharashtra,Amritsar,Electronics,41174,132,0,12
+7/9/2023,Delhi,Delhi,Grocery,46107,153,0,7
+7/10/2023,West Bengal,Kolkata,Grocery,22695,198,0,7
+11/8/2023,Maharashtra,Kolkata,Grocery,46347,264,0,11
+4/27/2023,Punjab,Delhi,Electronics,8121,77,0,4
+5/14/2023,West Bengal,Delhi,Clothing,23257,113,0,5
+2/27/2023,Delhi,Mumbai,Grocery,33164,168,0,2
+2/13/2023,Maharashtra,Mumbai,Clothing,30491,99,0,2
+6/22/2023,Delhi,Mumbai,Electronics,28165,265,0,6
+6/9/2023,Punjab,Kolkata,Electronics,8748,229,0,6
+6/22/2023,Maharashtra,Mumbai,Electronics,38045,18,0,6
+11/13/2023,Punjab,Amritsar,Electronics,31553,21,1,11
+10/30/2023,Punjab,Amritsar,Clothing,49331,253,0,10
+5/29/2023,West Bengal,Mumbai,Grocery,35497,191,0,5
+3/21/2023,Delhi,Amritsar,Electronics,36308,293,0,3
+8/1/2023,Maharashtra,Kolkata,Electronics,44560,108,0,8
+7/22/2023,Punjab,Amritsar,Clothing,15374,206,0,7
+9/9/2023,Punjab,Kolkata,Clothing,9675,235,0,9
+8/17/2023,Maharashtra,Delhi,Electronics,6170,112,0,8
+6/13/2023,Punjab,Delhi,Grocery,46449,115,0,6
+8/15/2023,West Bengal,Delhi,Grocery,48485,67,0,8
+5/27/2023,West Bengal,Delhi,Electronics,17450,87,0,5
+1/20/2023,West Bengal,Amritsar,Clothing,15680,84,0,1
+2/16/2023,West Bengal,Mumbai,Electronics,15068,51,0,2
+8/21/2023,Punjab,Amritsar,Electronics,40230,190,0,8
+11/1/2023,Maharashtra,Kolkata,Clothing,31206,42,0,11
+1/14/2023,Maharashtra,Amritsar,Electronics,5287,80,0,1
+5/23/2023,Maharashtra,Amritsar,Electronics,27337,65,0,5
+1/1/2023,Maharashtra,Kolkata,Electronics,25666,114,0,1
+2/23/2023,Delhi,Delhi,Clothing,6161,209,0,2
+9/16/2023,Maharashtra,Delhi,Grocery,40131,110,0,9
+5/24/2023,Delhi,Delhi,Grocery,29535,265,0,5
+1/12/2023,Delhi,Mumbai,Clothing,37528,83,0,1
+11/26/2023,West Bengal,Kolkata,Grocery,43751,180,0,11
+8/12/2023,Delhi,Kolkata,Electronics,21527,152,0,8
+9/29/2023,Punjab,Amritsar,Grocery,45975,175,0,9
+12/24/2023,Delhi,Mumbai,Electronics,28853,270,1,12
+6/5/2023,West Bengal,Delhi,Grocery,19758,230,0,6
+1/8/2023,Delhi,Mumbai,Clothing,5244,92,0,1
+5/2/2023,Punjab,Kolkata,Grocery,8178,191,0,5
+12/14/2023,Punjab,Kolkata,Grocery,36831,19,0,12
+6/13/2023,Punjab,Amritsar,Grocery,7176,13,0,6
+3/31/2023,West Bengal,Amritsar,Clothing,42770,290,0,3
+5/16/2023,West Bengal,Kolkata,Grocery,38654,224,0,5
+7/5/2023,Maharashtra,Delhi,Clothing,31627,107,0,7
+11/12/2023,West Bengal,Delhi,Electronics,49910,110,1,11
+6/27/2023,Punjab,Mumbai,Grocery,29881,18,0,6
+1/28/2023,Punjab,Kolkata,Clothing,40422,70,0,1
+8/8/2023,West Bengal,Kolkata,Clothing,16984,155,0,8
+12/23/2023,Delhi,Delhi,Grocery,28776,72,0,12
+2/10/2023,West Bengal,Delhi,Electronics,22755,130,0,2
+8/16/2023,West Bengal,Kolkata,Clothing,12135,235,0,8
+7/11/2023,Punjab,Amritsar,Grocery,5320,114,0,7
+5/25/2023,Maharashtra,Kolkata,Electronics,42422,269,0,5
+7/20/2023,Punjab,Kolkata,Clothing,33635,264,0,7
+7/31/2023,Maharashtra,Delhi,Clothing,26684,216,0,7
+8/8/2023,Punjab,Delhi,Electronics,28238,37,0,8
+8/28/2023,West Bengal,Amritsar,Electronics,26889,179,0,8
+2/15/2023,Punjab,Amritsar,Grocery,35313,85,0,2
+2/4/2023,Punjab,Mumbai,Grocery,37535,125,0,2
+9/10/2023,Punjab,Kolkata,Clothing,15770,78,0,9
+3/23/2023,West Bengal,Delhi,Electronics,44321,243,0,3
+9/13/2023,West Bengal,Amritsar,Electronics,25426,10,0,9
+7/16/2023,West Bengal,Mumbai,Electronics,49327,176,0,7
+10/30/2023,West Bengal,Mumbai,Clothing,46777,227,0,10
+1/10/2023,Maharashtra,Delhi,Electronics,12498,282,0,1
+11/8/2023,Maharashtra,Delhi,Electronics,44404,260,0,11
+10/13/2023,Delhi,Mumbai,Clothing,45130,183,0,10
+8/30/2023,West Bengal,Amritsar,Grocery,21395,179,0,8
+9/8/2023,Maharashtra,Mumbai,Grocery,7537,255,0,9
+12/31/2023,Punjab,Kolkata,Clothing,24226,99,0,12
+1/5/2023,West Bengal,Kolkata,Electronics,20216,58,0,1
+4/29/2023,Delhi,Delhi,Clothing,23613,159,0,4
+10/16/2023,Delhi,Amritsar,Grocery,8009,141,0,10
+3/6/2023,Delhi,Amritsar,Grocery,29368,68,0,3
+5/26/2023,Punjab,Kolkata,Clothing,34327,208,0,5
+8/12/2023,Maharashtra,Mumbai,Clothing,19209,224,0,8
+8/27/2023,Punjab,Delhi,Grocery,20029,58,0,8
+6/26/2023,West Bengal,Mumbai,Clothing,7077,241,0,6
+9/24/2023,Delhi,Mumbai,Grocery,18907,256,0,9
+12/7/2023,Punjab,Mumbai,Clothing,41635,248,0,12
+10/9/2023,Punjab,Amritsar,Clothing,9873,177,0,10
+3/4/2023,Maharashtra,Kolkata,Clothing,13635,57,0,3
+8/5/2023,Maharashtra,Amritsar,Grocery,38065,60,0,8
+12/8/2023,Delhi,Kolkata,Clothing,46804,107,0,12
+11/11/2023,Punjab,Delhi,Grocery,38783,225,1,11
+10/10/2023,Punjab,Delhi,Grocery,39152,186,0,10
+6/26/2023,Maharashtra,Mumbai,Clothing,46513,89,0,6
+4/8/2023,Punjab,Kolkata,Clothing,34092,194,0,4
+4/15/2023,Punjab,Kolkata,Grocery,22653,36,0,4
+4/9/2023,Punjab,Kolkata,Grocery,37463,204,0,4
+11/7/2023,Maharashtra,Mumbai,Electronics,39028,223,0,11
+1/6/2023,Delhi,Mumbai,Grocery,45469,123,0,1
+7/16/2023,West Bengal,Delhi,Electronics,25947,251,0,7
+12/17/2023,Delhi,Amritsar,Electronics,34978,133,0,12
+5/13/2023,West Bengal,Kolkata,Electronics,27056,85,0,5
+12/24/2023,Punjab,Kolkata,Clothing,34007,205,1,12
+9/16/2023,Delhi,Amritsar,Clothing,48169,53,0,9
+1/23/2023,West Bengal,Kolkata,Grocery,49632,195,0,1
+2/22/2023,Maharashtra,Mumbai,Electronics,10543,255,0,2
+6/14/2023,Maharashtra,Mumbai,Clothing,26067,93,0,6
+7/21/2023,Delhi,Kolkata,Clothing,30097,216,0,7
+3/24/2023,Delhi,Mumbai,Clothing,47847,160,0,3
+5/25/2023,Punjab,Mumbai,Clothing,48512,165,0,5
+3/26/2023,Delhi,Kolkata,Clothing,8809,25,0,3
+3/19/2023,Punjab,Delhi,Electronics,27191,174,0,3
+1/1/2023,Punjab,Amritsar,Electronics,26267,154,0,1
+2/20/2023,Maharashtra,Mumbai,Electronics,12206,46,0,2
+6/22/2023,Maharashtra,Delhi,Electronics,26057,54,0,6
+7/24/2023,West Bengal,Mumbai,Grocery,33992,215,0,7
+9/17/2023,Maharashtra,Mumbai,Electronics,20995,71,0,9
+10/15/2023,Maharashtra,Amritsar,Clothing,49439,28,0,10
+2/3/2023,Delhi,Mumbai,Electronics,18210,16,0,2
+12/14/2023,Maharashtra,Amritsar,Grocery,22793,258,0,12
+4/5/2023,West Bengal,Amritsar,Clothing,31270,126,0,4
+3/13/2023,Delhi,Amritsar,Electronics,10197,77,0,3
+2/8/2023,West Bengal,Delhi,Electronics,12452,43,0,2
+6/3/2023,Maharashtra,Kolkata,Electronics,46486,203,0,6
+9/7/2023,West Bengal,Delhi,Clothing,19859,64,0,9
+6/11/2023,Delhi,Kolkata,Clothing,32236,275,0,6
+4/28/2023,Punjab,Kolkata,Grocery,36899,51,0,4
+9/16/2023,West Bengal,Amritsar,Clothing,37083,240,0,9
+11/2/2023,West Bengal,Mumbai,Clothing,7172,19,0,11
+9/25/2023,Delhi,Amritsar,Electronics,21663,137,0,9
+2/23/2023,Delhi,Mumbai,Clothing,32540,188,0,2
+8/24/2023,West Bengal,Kolkata,Electronics,24053,202,0,8
+8/10/2023,Maharashtra,Amritsar,Electronics,16085,101,0,8
+9/8/2023,West Bengal,Mumbai,Clothing,35564,240,0,9
+11/9/2023,Delhi,Delhi,Grocery,29209,87,0,11
+4/22/2023,Punjab,Mumbai,Grocery,8981,94,1,4
+9/12/2023,Punjab,Amritsar,Clothing,26153,39,0,9
+10/30/2023,Maharashtra,Delhi,Grocery,10247,222,0,10
+7/26/2023,West Bengal,Mumbai,Electronics,15553,58,0,7
+8/17/2023,Punjab,Mumbai,Electronics,25811,274,0,8
+12/7/2023,West Bengal,Mumbai,Clothing,34845,154,0,12
+3/7/2023,Delhi,Mumbai,Grocery,11135,78,0,3
+3/16/2023,Punjab,Mumbai,Grocery,10573,67,0,3
+4/13/2023,Maharashtra,Delhi,Electronics,18731,194,0,4
+7/11/2023,Delhi,Kolkata,Clothing,12189,71,0,7
+9/9/2023,Maharashtra,Delhi,Grocery,19541,175,0,9
+8/14/2023,Delhi,Delhi,Clothing,48646,180,0,8
+10/21/2023,Punjab,Delhi,Grocery,16087,72,1,10
+11/2/2023,Maharashtra,Kolkata,Electronics,7776,156,0,11
+4/8/2023,Maharashtra,Amritsar,Electronics,47079,170,0,4
+12/4/2023,Delhi,Kolkata,Clothing,32564,150,0,12
+10/13/2023,Maharashtra,Delhi,Electronics,33835,106,0,10
+12/1/2023,Delhi,Mumbai,Grocery,12697,230,0,12
+12/13/2023,Delhi,Mumbai,Electronics,19629,52,0,12
+11/4/2023,Delhi,Delhi,Clothing,13386,117,0,11
+9/6/2023,Delhi,Mumbai,Clothing,22046,275,0,9
+6/15/2023,Punjab,Delhi,Clothing,13044,104,0,6
+12/1/2023,Delhi,Mumbai,Grocery,14615,271,0,12
+1/30/2023,West Bengal,Kolkata,Grocery,10060,80,0,1
+9/4/2023,Maharashtra,Amritsar,Grocery,15900,228,0,9
+4/16/2023,West Bengal,Amritsar,Grocery,10581,30,0,4
+2/20/2023,Punjab,Kolkata,Grocery,39782,101,0,2
+3/22/2023,West Bengal,Kolkata,Electronics,25173,136,0,3
+5/13/2023,Maharashtra,Delhi,Grocery,17997,89,0,5
+10/12/2023,West Bengal,Delhi,Grocery,48403,247,0,10
+5/18/2023,Punjab,Delhi,Electronics,12148,191,0,5
+7/3/2023,Delhi,Mumbai,Grocery,23748,34,0,7
+11/26/2023,West Bengal,Delhi,Clothing,19022,165,0,11
+9/30/2023,Punjab,Kolkata,Grocery,25013,14,0,9
+12/6/2023,Punjab,Amritsar,Grocery,43687,129,0,12
+3/10/2023,Maharashtra,Mumbai,Clothing,20886,286,0,3
+2/3/2023,Maharashtra,Delhi,Clothing,30256,27,0,2
+9/19/2023,West Bengal,Mumbai,Clothing,35005,207,0,9
+2/22/2023,Delhi,Mumbai,Clothing,11638,66,0,2
+7/24/2023,Punjab,Delhi,Grocery,42419,102,0,7
+5/6/2023,West Bengal,Mumbai,Clothing,38377,28,0,5
+8/23/2023,Punjab,Amritsar,Clothing,45708,202,0,8
+2/12/2023,Punjab,Kolkata,Electronics,48116,246,0,2
+8/28/2023,Delhi,Kolkata,Clothing,41634,286,0,8
+4/21/2023,Delhi,Amritsar,Clothing,21755,236,1,4
+9/6/2023,West Bengal,Mumbai,Electronics,28382,242,0,9
+5/31/2023,Delhi,Delhi,Electronics,27394,49,0,5
+7/2/2023,Delhi,Mumbai,Grocery,7253,162,0,7
+12/2/2023,West Bengal,Amritsar,Electronics,42710,136,0,12
+4/5/2023,Delhi,Mumbai,Grocery,5864,246,0,4
+1/8/2023,Maharashtra,Kolkata,Electronics,39036,64,0,1
+12/26/2023,Punjab,Mumbai,Electronics,45222,181,1,12
+7/3/2023,Punjab,Amritsar,Grocery,18666,118,0,7
+10/8/2023,Punjab,Kolkata,Electronics,25955,193,0,10
+7/14/2023,Punjab,Mumbai,Grocery,42997,207,0,7
+12/18/2023,West Bengal,Mumbai,Electronics,21309,96,0,12
+7/14/2023,Punjab,Kolkata,Clothing,9054,210,0,7
+6/4/2023,Punjab,Delhi,Electronics,5935,284,0,6
+4/3/2023,Punjab,Kolkata,Grocery,49940,220,0,4
+6/9/2023,Punjab,Delhi,Electronics,27778,127,0,6
+3/2/2023,Maharashtra,Amritsar,Grocery,48298,200,0,3
+5/2/2023,Punjab,Amritsar,Grocery,21709,51,0,5
+2/20/2023,Maharashtra,Kolkata,Clothing,14726,51,0,2
+10/4/2023,West Bengal,Kolkata,Clothing,45542,285,0,10
+1/5/2023,Delhi,Amritsar,Grocery,25245,26,0,1
+4/2/2023,Punjab,Delhi,Electronics,39753,292,0,4
+6/19/2023,Delhi,Amritsar,Grocery,19252,267,0,6
+11/13/2023,Delhi,Kolkata,Grocery,26316,72,1,11
+1/22/2023,West Bengal,Amritsar,Electronics,42371,71,0,1
+11/22/2023,Delhi,Kolkata,Electronics,24162,109,0,11
+1/1/2023,Maharashtra,Kolkata,Electronics,20960,28,0,1
+5/13/2023,Delhi,Amritsar,Electronics,35791,26,0,5
+8/21/2023,Delhi,Delhi,Grocery,47230,255,0,8
+1/12/2023,Delhi,Mumbai,Grocery,30216,260,0,1
+12/12/2023,Punjab,Amritsar,Clothing,37467,90,0,12
+2/15/2023,Punjab,Mumbai,Grocery,12754,48,0,2
+2/3/2023,Maharashtra,Amritsar,Electronics,9078,45,0,2
+3/19/2023,Maharashtra,Mumbai,Clothing,17853,206,0,3
+8/6/2023,Punjab,Delhi,Electronics,9042,167,0,8
+10/28/2023,Maharashtra,Delhi,Grocery,19389,213,0,10
+3/14/2023,Punjab,Amritsar,Clothing,35425,205,0,3
+10/9/2023,West Bengal,Kolkata,Electronics,7575,225,0,10
+9/6/2023,Delhi,Mumbai,Clothing,44522,294,0,9
+2/16/2023,Delhi,Kolkata,Clothing,33179,205,0,2
+5/1/2023,Maharashtra,Kolkata,Grocery,39754,161,0,5
+8/2/2023,Punjab,Kolkata,Electronics,23624,23,0,8
+8/27/2023,Punjab,Delhi,Clothing,25350,155,0,8
+2/25/2023,Maharashtra,Amritsar,Clothing,31681,66,0,2
+12/16/2023,Punjab,Amritsar,Electronics,28988,220,0,12
+4/17/2023,West Bengal,Delhi,Clothing,20470,277,0,4
+11/15/2023,Delhi,Delhi,Clothing,29704,219,1,11
+2/17/2023,Maharashtra,Amritsar,Clothing,43736,26,0,2
+3/2/2023,Maharashtra,Kolkata,Electronics,34377,295,0,3
+12/3/2023,Punjab,Mumbai,Electronics,33572,212,0,12
+1/26/2023,Maharashtra,Mumbai,Electronics,12493,108,0,1
+10/19/2023,West Bengal,Mumbai,Electronics,9103,288,0,10
+9/14/2023,Punjab,Kolkata,Grocery,39844,218,0,9
+1/8/2023,Punjab,Amritsar,Clothing,7994,138,0,1
+4/23/2023,Punjab,Delhi,Electronics,8744,297,1,4
+12/21/2023,Punjab,Amritsar,Clothing,32332,261,0,12
+9/10/2023,West Bengal,Kolkata,Clothing,10594,274,0,9
+6/29/2023,Punjab,Delhi,Grocery,45299,280,0,6
+7/26/2023,Maharashtra,Kolkata,Electronics,12371,197,0,7
+10/30/2023,West Bengal,Mumbai,Electronics,23028,223,0,10
+5/7/2023,Delhi,Mumbai,Clothing,40912,292,0,5
+2/25/2023,Delhi,Kolkata,Electronics,18990,220,0,2
+8/2/2023,Maharashtra,Delhi,Clothing,21626,85,0,8
+1/14/2023,Maharashtra,Delhi,Clothing,25469,157,0,1
+1/28/2023,West Bengal,Amritsar,Grocery,45722,222,0,1
+3/19/2023,Delhi,Mumbai,Grocery,45037,118,0,3
+8/4/2023,Delhi,Amritsar,Grocery,12130,138,0,8
+12/31/2023,Delhi,Amritsar,Clothing,11828,19,0,12
+6/3/2023,Delhi,Kolkata,Electronics,46612,56,0,6
+1/14/2023,Delhi,Kolkata,Grocery,44099,105,0,1
+7/6/2023,Punjab,Amritsar,Electronics,22883,112,0,7
+11/8/2023,Maharashtra,Mumbai,Grocery,48059,155,0,11
+1/7/2023,Punjab,Kolkata,Grocery,23542,36,0,1
+1/3/2023,Delhi,Amritsar,Clothing,47932,229,0,1
+4/21/2023,West Bengal,Amritsar,Grocery,15450,27,1,4
+8/26/2023,West Bengal,Amritsar,Grocery,25423,176,0,8
+12/29/2023,Delhi,Amritsar,Clothing,7035,91,0,12
+8/27/2023,Delhi,Amritsar,Electronics,49231,81,0,8
+10/1/2023,West Bengal,Amritsar,Grocery,45745,263,0,10
+10/21/2023,Punjab,Kolkata,Clothing,22241,171,1,10
+8/15/2023,Punjab,Mumbai,Grocery,28154,47,0,8
+1/15/2023,Delhi,Amritsar,Clothing,30625,210,0,1
+7/11/2023,Punjab,Delhi,Electronics,49950,209,0,7
+4/29/2023,West Bengal,Kolkata,Electronics,38066,264,0,4
+1/28/2023,Punjab,Kolkata,Clothing,38691,188,0,1
+7/21/2023,Delhi,Amritsar,Clothing,18331,44,0,7
+2/8/2023,West Bengal,Kolkata,Clothing,25690,91,0,2
+9/30/2023,Punjab,Amritsar,Electronics,24183,229,0,9
+8/19/2023,Maharashtra,Mumbai,Grocery,44346,167,0,8
+3/27/2023,West Bengal,Mumbai,Electronics,9875,13,0,3
+5/6/2023,West Bengal,Kolkata,Clothing,17254,176,0,5
+10/27/2023,Maharashtra,Kolkata,Clothing,33621,213,0,10
+1/25/2023,Maharashtra,Delhi,Electronics,15905,203,0,1
+5/25/2023,West Bengal,Kolkata,Clothing,20882,244,0,5
+1/13/2023,Maharashtra,Delhi,Electronics,24041,215,0,1
+7/31/2023,Delhi,Mumbai,Clothing,34098,159,0,7
+1/25/2023,Delhi,Mumbai,Grocery,47431,168,0,1
+3/9/2023,Delhi,Amritsar,Grocery,38709,288,0,3
+3/8/2023,West Bengal,Mumbai,Clothing,39675,175,0,3
+8/21/2023,Maharashtra,Delhi,Electronics,9837,77,0,8
+4/19/2023,Maharashtra,Kolkata,Grocery,29489,97,0,4
+5/26/2023,Punjab,Amritsar,Electronics,22627,226,0,5
+4/21/2023,Punjab,Delhi,Clothing,10696,10,1,4
+8/16/2023,Maharashtra,Kolkata,Electronics,18543,144,0,8
+4/21/2023,Maharashtra,Amritsar,Grocery,17615,194,1,4
+2/3/2023,Maharashtra,Mumbai,Electronics,6466,149,0,2
+4/21/2023,West Bengal,Delhi,Electronics,35771,115,1,4
+9/21/2023,Maharashtra,Kolkata,Clothing,23350,142,0,9
+8/24/2023,Punjab,Amritsar,Clothing,5375,117,0,8
+3/24/2023,West Bengal,Amritsar,Clothing,38030,187,0,3
+2/11/2023,Maharashtra,Mumbai,Grocery,25746,155,0,2
+4/11/2023,Punjab,Kolkata,Grocery,27886,83,0,4
+1/6/2023,West Bengal,Mumbai,Clothing,49348,117,0,1
+6/29/2023,Maharashtra,Mumbai,Clothing,47904,131,0,6
+10/9/2023,Maharashtra,Kolkata,Grocery,37651,26,0,10
+11/16/2023,Maharashtra,Kolkata,Grocery,12833,205,0,11
+8/14/2023,West Bengal,Kolkata,Grocery,6893,261,0,8
+11/11/2023,Punjab,Delhi,Grocery,35573,128,1,11
+12/31/2023,Punjab,Kolkata,Clothing,36371,171,0,12
+8/17/2023,Delhi,Amritsar,Grocery,45874,207,0,8
+10/16/2023,Maharashtra,Mumbai,Clothing,16826,54,0,10
+5/30/2023,Delhi,Delhi,Electronics,39420,188,0,5
+10/4/2023,Delhi,Kolkata,Electronics,26924,53,0,10
+7/17/2023,Punjab,Delhi,Grocery,38367,280,0,7
+3/11/2023,West Bengal,Kolkata,Electronics,26199,87,0,3
+4/22/2023,West Bengal,Delhi,Electronics,30868,187,1,4
+1/4/2023,Punjab,Mumbai,Electronics,13792,12,0,1
+12/16/2023,West Bengal,Mumbai,Grocery,25597,223,0,12
+11/27/2023,Delhi,Amritsar,Grocery,41405,83,0,11
+11/14/2023,Maharashtra,Amritsar,Electronics,37696,60,1,11
+12/16/2023,Punjab,Kolkata,Clothing,48123,76,0,12
+4/5/2023,Maharashtra,Mumbai,Electronics,20989,102,0,4
+6/1/2023,West Bengal,Delhi,Grocery,33931,185,0,6
+11/7/2023,Maharashtra,Delhi,Grocery,14290,154,0,11
+5/17/2023,West Bengal,Delhi,Grocery,43367,16,0,5
+9/4/2023,West Bengal,Amritsar,Electronics,19342,278,0,9
+8/31/2023,Delhi,Delhi,Clothing,29941,13,0,8
+1/31/2023,West Bengal,Amritsar,Grocery,18945,147,0,1
+2/9/2023,Delhi,Amritsar,Grocery,15762,240,0,2
+8/17/2023,Delhi,Kolkata,Electronics,35133,97,0,8
+2/5/2023,Delhi,Delhi,Clothing,45150,26,0,2
+8/11/2023,Punjab,Delhi,Electronics,32052,61,0,8
+1/6/2023,Punjab,Mumbai,Grocery,46750,143,0,1
+11/18/2023,West Bengal,Kolkata,Clothing,24953,220,0,11
+8/8/2023,Delhi,Mumbai,Clothing,45475,228,0,8
+3/16/2023,Punjab,Kolkata,Grocery,22130,214,0,3
+1/4/2023,Delhi,Delhi,Clothing,36086,220,0,1
+12/1/2023,Maharashtra,Amritsar,Clothing,9633,286,0,12
+5/14/2023,Maharashtra,Amritsar,Electronics,22304,33,0,5
+4/28/2023,Maharashtra,Amritsar,Grocery,47037,13,0,4
+4/4/2023,West Bengal,Amritsar,Grocery,37284,161,0,4
+3/3/2023,Delhi,Amritsar,Grocery,12008,268,0,3
+7/13/2023,Maharashtra,Mumbai,Grocery,32405,177,0,7
+12/1/2023,Punjab,Kolkata,Grocery,41386,185,0,12
+7/22/2023,Maharashtra,Delhi,Clothing,30373,65,0,7
+1/26/2023,Maharashtra,Mumbai,Electronics,25827,117,0,1
+6/22/2023,Maharashtra,Kolkata,Grocery,38040,150,0,6
+10/27/2023,West Bengal,Amritsar,Electronics,18007,164,0,10
+5/13/2023,Punjab,Kolkata,Electronics,23157,271,0,5
+11/22/2023,Delhi,Kolkata,Clothing,37157,282,0,11
+4/28/2023,Punjab,Amritsar,Grocery,40315,241,0,4
+11/20/2023,Delhi,Amritsar,Clothing,40932,250,0,11
+10/2/2023,West Bengal,Amritsar,Grocery,26164,267,0,10
+7/31/2023,West Bengal,Delhi,Clothing,19414,258,0,7
+8/13/2023,West Bengal,Amritsar,Electronics,19327,86,0,8
+1/20/2023,West Bengal,Delhi,Grocery,5946,189,0,1
+4/23/2023,Delhi,Amritsar,Electronics,19693,75,1,4
+5/20/2023,Maharashtra,Delhi,Electronics,32241,180,0,5
+2/16/2023,Delhi,Kolkata,Clothing,35254,31,0,2
+1/1/2023,Punjab,Mumbai,Grocery,20540,116,0,1
+3/31/2023,West Bengal,Kolkata,Electronics,11719,236,0,3
+5/22/2023,West Bengal,Kolkata,Clothing,46203,225,0,5
+11/16/2023,Punjab,Amritsar,Grocery,30081,78,0,11
+2/7/2023,Delhi,Delhi,Grocery,16350,93,0,2
+10/20/2023,Maharashtra,Mumbai,Electronics,41358,112,1,10
+5/19/2023,Maharashtra,Amritsar,Grocery,37021,48,0,5
+12/22/2023,Punjab,Amritsar,Electronics,47832,22,0,12
+11/29/2023,Maharashtra,Amritsar,Grocery,33369,190,0,11
+9/16/2023,Delhi,Kolkata,Clothing,36728,277,0,9
+6/10/2023,Delhi,Delhi,Electronics,22576,22,0,6
+6/27/2023,Punjab,Delhi,Electronics,34001,129,0,6
+1/10/2023,Delhi,Mumbai,Grocery,22848,66,0,1
+9/18/2023,West Bengal,Delhi,Grocery,5390,49,0,9
+5/18/2023,Punjab,Delhi,Electronics,26999,137,0,5
+6/21/2023,Delhi,Amritsar,Grocery,16569,182,0,6
+1/13/2023,Punjab,Amritsar,Clothing,18029,44,0,1
+6/17/2023,Maharashtra,Kolkata,Grocery,27490,268,0,6
+5/10/2023,Delhi,Amritsar,Clothing,40328,14,0,5
+3/25/2023,West Bengal,Amritsar,Clothing,10867,227,0,3
+11/17/2023,Delhi,Amritsar,Clothing,20284,20,0,11
+11/15/2023,Punjab,Amritsar,Clothing,38979,126,1,11
+4/11/2023,Punjab,Kolkata,Clothing,14121,193,0,4
+11/25/2023,Delhi,Amritsar,Grocery,6539,125,0,11
+9/30/2023,West Bengal,Mumbai,Clothing,30488,171,0,9
+9/22/2023,West Bengal,Mumbai,Grocery,22027,76,0,9
+2/7/2023,West Bengal,Mumbai,Clothing,13693,209,0,2
+4/4/2023,Punjab,Mumbai,Electronics,13921,40,0,4
+4/5/2023,Delhi,Amritsar,Clothing,15310,84,0,4
+11/1/2023,Maharashtra,Mumbai,Electronics,35908,246,0,11
+3/10/2023,Punjab,Amritsar,Clothing,9386,75,0,3
+11/14/2023,West Bengal,Kolkata,Clothing,37263,79,1,11
+8/24/2023,Delhi,Mumbai,Clothing,33412,29,0,8
+11/30/2023,West Bengal,Delhi,Electronics,22303,235,0,11
+5/17/2023,Maharashtra,Mumbai,Electronics,17242,208,0,5
+3/17/2023,West Bengal,Mumbai,Clothing,13947,48,0,3
+2/4/2023,West Bengal,Amritsar,Grocery,10930,154,0,2
+1/1/2023,Maharashtra,Mumbai,Clothing,43170,54,0,1
+10/23/2023,Delhi,Delhi,Electronics,5507,100,1,10
+11/16/2023,Punjab,Amritsar,Clothing,6436,247,0,11
+3/1/2023,Delhi,Amritsar,Electronics,32151,79,0,3
+11/16/2023,Maharashtra,Kolkata,Electronics,16618,175,0,11
+12/15/2023,West Bengal,Kolkata,Electronics,13750,139,0,12
+11/24/2023,Delhi,Mumbai,Clothing,21122,223,0,11
+9/24/2023,Punjab,Kolkata,Electronics,12354,98,0,9
+12/27/2023,Maharashtra,Kolkata,Electronics,49062,261,0,12
+8/17/2023,Delhi,Kolkata,Clothing,35979,81,0,8
+9/27/2023,Punjab,Amritsar,Electronics,25900,174,0,9
+11/12/2023,Maharashtra,Amritsar,Clothing,18840,58,1,11
+10/13/2023,Punjab,Amritsar,Electronics,42167,61,0,10
+10/18/2023,Maharashtra,Kolkata,Grocery,10037,298,0,10
+8/1/2023,West Bengal,Amritsar,Grocery,33633,287,0,8
+6/14/2023,Delhi,Kolkata,Electronics,29495,123,0,6
+1/5/2023,Punjab,Amritsar,Grocery,20848,248,0,1
+12/5/2023,Maharashtra,Amritsar,Clothing,41483,142,0,12
+3/19/2023,Punjab,Delhi,Grocery,12837,283,0,3
+3/3/2023,Punjab,Mumbai,Electronics,39069,175,0,3
+5/12/2023,Delhi,Kolkata,Electronics,12370,252,0,5
+3/30/2023,West Bengal,Delhi,Clothing,11411,147,0,3
+8/25/2023,Punjab,Amritsar,Electronics,44133,88,0,8
+2/11/2023,Maharashtra,Kolkata,Clothing,35499,179,0,2
+3/30/2023,Maharashtra,Amritsar,Grocery,35225,132,0,3
+10/23/2023,West Bengal,Mumbai,Grocery,5692,185,1,10
+11/24/2023,Maharashtra,Delhi,Clothing,33926,91,0,11
+10/22/2023,West Bengal,Mumbai,Clothing,39246,96,1,10
+4/14/2023,Maharashtra,Delhi,Electronics,44164,234,0,4
+1/14/2023,Delhi,Amritsar,Grocery,13448,25,0,1
+10/15/2023,Punjab,Mumbai,Clothing,48390,172,0,10
+6/28/2023,Delhi,Mumbai,Grocery,15073,107,0,6
+5/5/2023,Punjab,Amritsar,Clothing,40414,165,0,5
+12/19/2023,Punjab,Mumbai,Grocery,10209,11,0,12
+1/23/2023,Punjab,Kolkata,Electronics,11533,178,0,1
+3/4/2023,Delhi,Delhi,Grocery,26061,101,0,3
+5/23/2023,Punjab,Delhi,Grocery,12211,190,0,5
+6/2/2023,Delhi,Delhi,Grocery,14927,240,0,6
+5/25/2023,West Bengal,Kolkata,Grocery,16927,157,0,5
+8/13/2023,Maharashtra,Delhi,Grocery,29594,289,0,8
+11/5/2023,Maharashtra,Amritsar,Electronics,14316,198,0,11
+4/14/2023,Punjab,Mumbai,Clothing,17177,137,0,4
+4/14/2023,Delhi,Kolkata,Grocery,15846,16,0,4
+2/8/2023,Maharashtra,Delhi,Electronics,12933,56,0,2
+7/17/2023,Delhi,Amritsar,Grocery,43244,62,0,7
+5/14/2023,Delhi,Mumbai,Grocery,45696,196,0,5
+3/8/2023,Punjab,Mumbai,Clothing,7080,47,0,3
+6/28/2023,Maharashtra,Kolkata,Grocery,11089,235,0,6
+2/11/2023,Punjab,Kolkata,Electronics,31123,62,0,2
+1/15/2023,Punjab,Kolkata,Electronics,12797,233,0,1
+4/21/2023,Maharashtra,Amritsar,Clothing,13346,163,1,4
+6/6/2023,Maharashtra,Amritsar,Grocery,24878,57,0,6
+10/16/2023,West Bengal,Kolkata,Electronics,38672,156,0,10
+8/19/2023,West Bengal,Delhi,Grocery,22653,73,0,8
+6/6/2023,Delhi,Mumbai,Grocery,47742,191,0,6
+2/7/2023,Maharashtra,Mumbai,Grocery,31140,134,0,2
+4/7/2023,West Bengal,Amritsar,Clothing,6184,188,0,4
+10/16/2023,Delhi,Mumbai,Grocery,39493,48,0,10
+9/11/2023,Delhi,Delhi,Electronics,49148,269,0,9
+7/15/2023,Delhi,Mumbai,Grocery,29846,12,0,7
+3/27/2023,West Bengal,Amritsar,Electronics,27195,73,0,3
+11/18/2023,Maharashtra,Amritsar,Grocery,10606,38,0,11
+1/10/2023,Punjab,Delhi,Electronics,8956,20,0,1
+1/5/2023,Delhi,Delhi,Electronics,21555,106,0,1
+5/3/2023,West Bengal,Mumbai,Grocery,29849,212,0,5
+11/26/2023,West Bengal,Mumbai,Grocery,23690,30,0,11
+12/19/2023,Punjab,Amritsar,Electronics,31347,48,0,12
+4/28/2023,Punjab,Delhi,Clothing,38189,232,0,4
+10/21/2023,West Bengal,Delhi,Grocery,43308,111,1,10
+6/8/2023,Maharashtra,Delhi,Clothing,30785,55,0,6
+10/30/2023,Punjab,Mumbai,Grocery,37698,75,0,10
+8/16/2023,West Bengal,Delhi,Grocery,20966,100,0,8
+12/31/2023,Punjab,Amritsar,Grocery,36097,173,0,12
+8/4/2023,Maharashtra,Amritsar,Grocery,20882,120,0,8
+7/3/2023,Delhi,Mumbai,Clothing,9675,132,0,7
+1/15/2023,Punjab,Kolkata,Grocery,46850,202,0,1
+6/6/2023,Maharashtra,Mumbai,Electronics,18009,108,0,6
+5/16/2023,West Bengal,Kolkata,Electronics,32843,168,0,5
+9/18/2023,Punjab,Delhi,Clothing,34793,112,0,9
+6/6/2023,Punjab,Mumbai,Grocery,44516,290,0,6
+2/16/2023,West Bengal,Amritsar,Electronics,43871,52,0,2
+11/20/2023,Delhi,Delhi,Clothing,22857,93,0,11
+11/28/2023,West Bengal,Amritsar,Grocery,24627,200,0,11
+6/22/2023,Punjab,Delhi,Electronics,23565,60,0,6
+5/10/2023,West Bengal,Mumbai,Electronics,31025,219,0,5
+4/5/2023,Maharashtra,Kolkata,Clothing,32832,135,0,4
+4/25/2023,West Bengal,Delhi,Grocery,49116,78,0,4
+8/31/2023,Punjab,Kolkata,Grocery,14782,274,0,8
+10/19/2023,West Bengal,Delhi,Electronics,43650,267,0,10
+10/9/2023,Delhi,Amritsar,Electronics,27366,197,0,10
+10/26/2023,West Bengal,Amritsar,Electronics,33557,239,0,10
+10/10/2023,Delhi,Delhi,Grocery,10798,198,0,10
+3/10/2023,Maharashtra,Kolkata,Clothing,14627,19,0,3
+5/28/2023,Delhi,Mumbai,Clothing,46183,123,0,5
+1/11/2023,West Bengal,Mumbai,Grocery,17466,85,0,1
+9/11/2023,Punjab,Amritsar,Clothing,47614,173,0,9
+11/26/2023,Delhi,Mumbai,Electronics,17720,94,0,11
+12/26/2023,Maharashtra,Amritsar,Clothing,46913,58,1,12
+2/7/2023,Delhi,Mumbai,Clothing,42292,186,0,2
+5/14/2023,Delhi,Delhi,Clothing,11559,227,0,5
+7/19/2023,Delhi,Amritsar,Electronics,45388,198,0,7
+1/23/2023,Maharashtra,Amritsar,Grocery,24158,239,0,1
+10/30/2023,West Bengal,Delhi,Electronics,35916,264,0,10
+12/12/2023,Delhi,Amritsar,Grocery,27057,245,0,12
+10/29/2023,Delhi,Mumbai,Grocery,40892,35,0,10
+12/29/2023,Punjab,Mumbai,Grocery,46439,81,0,12
+8/6/2023,Maharashtra,Amritsar,Clothing,16706,270,0,8
+5/21/2023,Delhi,Mumbai,Clothing,17070,263,0,5
+4/14/2023,Maharashtra,Kolkata,Grocery,45902,280,0,4
+7/29/2023,Delhi,Amritsar,Grocery,5924,132,0,7
+4/21/2023,West Bengal,Delhi,Clothing,31478,153,1,4
+4/14/2023,West Bengal,Kolkata,Electronics,10506,266,0,4
+11/12/2023,Delhi,Amritsar,Grocery,40163,153,1,11
+6/20/2023,West Bengal,Delhi,Electronics,29604,268,0,6
+12/22/2023,Delhi,Mumbai,Clothing,20310,56,0,12
+11/20/2023,West Bengal,Delhi,Grocery,13226,22,0,11
+5/13/2023,Punjab,Kolkata,Electronics,16781,217,0,5
+10/20/2023,Punjab,Mumbai,Electronics,10515,244,1,10
+11/24/2023,Punjab,Amritsar,Electronics,41133,158,0,11
+5/7/2023,Maharashtra,Mumbai,Clothing,21972,164,0,5
+4/16/2023,Maharashtra,Amritsar,Clothing,37092,175,0,4
+4/2/2023,Punjab,Amritsar,Electronics,16410,99,0,4
+10/14/2023,Maharashtra,Delhi,Electronics,24522,195,0,10
+2/20/2023,West Bengal,Delhi,Clothing,14095,183,0,2
+1/29/2023,Delhi,Delhi,Electronics,28047,226,0,1
+10/23/2023,Delhi,Kolkata,Electronics,25470,273,1,10
+10/24/2023,Delhi,Kolkata,Clothing,48129,106,1,10
+8/2/2023,Punjab,Delhi,Electronics,13531,126,0,8
+9/24/2023,Maharashtra,Kolkata,Electronics,42038,208,0,9
+9/14/2023,West Bengal,Mumbai,Electronics,27403,30,0,9
+10/29/2023,West Bengal,Mumbai,Clothing,47674,209,0,10
+4/11/2023,Punjab,Kolkata,Electronics,34122,257,0,4
+12/12/2023,West Bengal,Kolkata,Clothing,21940,285,0,12
+4/20/2023,West Bengal,Mumbai,Clothing,34831,273,0,4
+7/1/2023,West Bengal,Amritsar,Grocery,16279,67,0,7
+11/9/2023,West Bengal,Mumbai,Grocery,43220,40,0,11
+1/1/2023,Maharashtra,Mumbai,Electronics,11477,258,0,1
+11/15/2023,West Bengal,Kolkata,Clothing,22400,102,1,11
+2/24/2023,Delhi,Mumbai,Grocery,11470,274,0,2
+5/29/2023,Punjab,Kolkata,Electronics,7062,280,0,5
+11/5/2023,Maharashtra,Kolkata,Grocery,46798,103,0,11
+5/17/2023,West Bengal,Delhi,Grocery,24880,163,0,5
+7/21/2023,Maharashtra,Mumbai,Clothing,39581,294,0,7
+11/9/2023,West Bengal,Amritsar,Clothing,49439,89,0,11
+4/27/2023,Delhi,Delhi,Grocery,19308,93,0,4
+6/3/2023,Punjab,Kolkata,Grocery,31027,46,0,6
+10/18/2023,West Bengal,Kolkata,Clothing,35720,241,0,10
+3/4/2023,West Bengal,Amritsar,Electronics,40081,102,0,3
+9/1/2023,West Bengal,Kolkata,Clothing,14706,111,0,9
+1/25/2023,West Bengal,Mumbai,Grocery,14837,175,0,1
+3/31/2023,Punjab,Delhi,Electronics,43599,168,0,3
+3/16/2023,Punjab,Kolkata,Grocery,41824,23,0,3
+10/21/2023,Delhi,Kolkata,Electronics,38073,234,1,10
+7/29/2023,Punjab,Amritsar,Grocery,37088,82,0,7
+12/13/2023,West Bengal,Mumbai,Electronics,33112,258,0,12
+1/17/2023,Delhi,Kolkata,Electronics,31299,100,0,1
+5/8/2023,Delhi,Amritsar,Grocery,39457,225,0,5
+12/30/2023,Delhi,Kolkata,Electronics,35063,99,0,12
+9/8/2023,West Bengal,Amritsar,Clothing,8917,38,0,9
+6/28/2023,Maharashtra,Amritsar,Grocery,7936,229,0,6
+7/1/2023,West Bengal,Mumbai,Clothing,41630,224,0,7
+6/1/2023,Punjab,Kolkata,Grocery,19506,230,0,6
+1/25/2023,Punjab,Mumbai,Electronics,33805,51,0,1
+6/29/2023,West Bengal,Amritsar,Electronics,19318,144,0,6
+7/17/2023,West Bengal,Delhi,Electronics,31026,51,0,7
+12/10/2023,Delhi,Kolkata,Grocery,32672,173,0,12
+6/10/2023,West Bengal,Delhi,Clothing,43417,292,0,6
+6/26/2023,Delhi,Kolkata,Clothing,32281,67,0,6
+10/12/2023,Punjab,Mumbai,Grocery,33091,34,0,10
+3/4/2023,Delhi,Mumbai,Grocery,43328,82,0,3
+5/30/2023,West Bengal,Mumbai,Clothing,23610,138,0,5
+6/3/2023,Punjab,Mumbai,Clothing,6079,96,0,6
+6/5/2023,Maharashtra,Mumbai,Clothing,34850,162,0,6
+2/18/2023,Delhi,Delhi,Clothing,25590,191,0,2
+12/3/2023,Punjab,Mumbai,Grocery,35951,134,0,12
+3/25/2023,Delhi,Amritsar,Grocery,20327,76,0,3
+12/27/2023,Punjab,Amritsar,Electronics,17755,15,0,12
+6/26/2023,Punjab,Delhi,Clothing,12235,134,0,6
+5/28/2023,Delhi,Kolkata,Electronics,22197,62,0,5
+4/28/2023,Maharashtra,Amritsar,Grocery,26473,75,0,4
+12/8/2023,Punjab,Kolkata,Grocery,7031,91,0,12
+3/4/2023,Punjab,Delhi,Electronics,46282,96,0,3
+7/8/2023,Punjab,Kolkata,Clothing,46863,11,0,7
+12/26/2023,Maharashtra,Kolkata,Clothing,19287,213,1,12
+2/18/2023,Maharashtra,Kolkata,Clothing,43679,159,0,2
+11/23/2023,West Bengal,Kolkata,Clothing,49463,112,0,11
+9/14/2023,Delhi,Delhi,Electronics,37230,33,0,9
+8/12/2023,Maharashtra,Amritsar,Electronics,24037,221,0,8
+5/21/2023,Delhi,Mumbai,Grocery,32052,74,0,5
+8/3/2023,West Bengal,Kolkata,Clothing,8340,218,0,8
+7/30/2023,Delhi,Amritsar,Clothing,45644,260,0,7
+11/14/2023,Maharashtra,Amritsar,Clothing,6141,126,1,11
+2/1/2023,Delhi,Delhi,Electronics,30425,125,0,2
+6/7/2023,Maharashtra,Amritsar,Clothing,24281,246,0,6
+10/12/2023,Delhi,Delhi,Electronics,47049,114,0,10
+11/1/2023,Maharashtra,Kolkata,Clothing,25425,268,0,11
+10/13/2023,Maharashtra,Kolkata,Clothing,39806,55,0,10
+5/24/2023,Delhi,Mumbai,Grocery,37113,225,0,5
+1/19/2023,West Bengal,Mumbai,Clothing,9270,33,0,1
+1/18/2023,Punjab,Mumbai,Clothing,47814,44,0,1
+9/14/2023,West Bengal,Amritsar,Grocery,9683,33,0,9
+3/19/2023,Delhi,Kolkata,Electronics,44884,37,0,3
+6/24/2023,West Bengal,Delhi,Electronics,34809,25,0,6
+7/13/2023,Maharashtra,Mumbai,Clothing,39552,68,0,7
+4/23/2023,Punjab,Delhi,Electronics,8786,252,1,4
+4/24/2023,Delhi,Delhi,Clothing,26650,216,0,4
+8/10/2023,Delhi,Mumbai,Grocery,33706,280,0,8
+6/15/2023,Delhi,Kolkata,Grocery,14190,258,0,6
+11/15/2023,Punjab,Mumbai,Clothing,43196,276,1,11
+5/12/2023,Maharashtra,Delhi,Grocery,44449,202,0,5
+9/21/2023,Delhi,Mumbai,Grocery,44661,227,0,9
+2/24/2023,West Bengal,Delhi,Clothing,34709,124,0,2
+12/25/2023,Delhi,Delhi,Clothing,19892,77,1,12
+5/11/2023,Delhi,Mumbai,Grocery,14643,84,0,5
+10/15/2023,Delhi,Amritsar,Electronics,14943,112,0,10
+9/23/2023,Delhi,Mumbai,Electronics,48240,187,0,9
+6/11/2023,Maharashtra,Amritsar,Clothing,26042,224,0,6
+3/28/2023,West Bengal,Delhi,Clothing,48894,48,0,3
+2/24/2023,Maharashtra,Delhi,Electronics,11869,268,0,2
+10/15/2023,West Bengal,Amritsar,Grocery,45437,213,0,10
+6/27/2023,Delhi,Delhi,Electronics,49306,16,0,6
+12/15/2023,Punjab,Amritsar,Electronics,47833,58,0,12
+1/8/2023,Maharashtra,Amritsar,Electronics,25918,35,0,1
+11/17/2023,Punjab,Delhi,Electronics,33379,170,0,11
+11/9/2023,Maharashtra,Kolkata,Clothing,47939,185,0,11
+9/4/2023,Delhi,Amritsar,Clothing,30274,88,0,9
+11/19/2023,Maharashtra,Mumbai,Grocery,22696,11,0,11
+9/12/2023,Delhi,Mumbai,Grocery,7962,141,0,9
+11/24/2023,Maharashtra,Delhi,Grocery,18851,285,0,11
+2/23/2023,Delhi,Kolkata,Grocery,10296,126,0,2
+9/6/2023,Delhi,Delhi,Electronics,19745,173,0,9
+8/27/2023,West Bengal,Kolkata,Clothing,10730,297,0,8
+8/17/2023,Delhi,Amritsar,Clothing,18921,37,0,8
+3/8/2023,West Bengal,Amritsar,Grocery,37894,10,0,3
+2/20/2023,Delhi,Amritsar,Grocery,10602,197,0,2
+4/7/2023,Punjab,Amritsar,Electronics,22575,65,0,4
+4/2/2023,Delhi,Mumbai,Electronics,24023,44,0,4
+9/21/2023,Punjab,Mumbai,Grocery,20997,121,0,9
+10/18/2023,Punjab,Delhi,Clothing,22750,295,0,10
+4/6/2023,Delhi,Kolkata,Clothing,46979,45,0,4
+3/29/2023,Punjab,Amritsar,Clothing,27837,226,0,3
+3/19/2023,West Bengal,Amritsar,Grocery,19997,89,0,3
+10/15/2023,Maharashtra,Kolkata,Clothing,44439,92,0,10
+4/30/2023,Delhi,Kolkata,Electronics,28067,74,0,4
+10/29/2023,Punjab,Delhi,Electronics,25923,137,0,10
+6/14/2023,Delhi,Kolkata,Grocery,13876,31,0,6
+7/1/2023,West Bengal,Amritsar,Electronics,7887,225,0,7
+8/11/2023,Delhi,Amritsar,Grocery,47422,116,0,8
+11/7/2023,Delhi,Amritsar,Clothing,41854,118,0,11
+1/7/2023,Punjab,Amritsar,Clothing,41948,190,0,1
+11/26/2023,West Bengal,Amritsar,Clothing,7841,173,0,11
+9/20/2023,Maharashtra,Delhi,Electronics,33756,77,0,9
+6/10/2023,Maharashtra,Amritsar,Grocery,11040,189,0,6
+5/31/2023,Punjab,Delhi,Clothing,15304,190,0,5
+3/26/2023,Delhi,Amritsar,Grocery,35341,178,0,3
+5/27/2023,Punjab,Mumbai,Clothing,9758,31,0,5
+4/22/2023,Punjab,Mumbai,Electronics,22010,75,1,4
+2/5/2023,Punjab,Mumbai,Electronics,36658,30,0,2
+10/12/2023,Delhi,Mumbai,Grocery,42782,109,0,10
+7/7/2023,West Bengal,Delhi,Electronics,6375,112,0,7
+3/23/2023,Punjab,Delhi,Electronics,38949,56,0,3
+1/2/2023,Delhi,Kolkata,Grocery,27092,48,0,1
+10/30/2023,West Bengal,Amritsar,Clothing,5490,294,0,10
+7/16/2023,Punjab,Mumbai,Electronics,8729,99,0,7
+1/11/2023,Maharashtra,Delhi,Grocery,10974,94,0,1
+8/22/2023,West Bengal,Amritsar,Electronics,24680,282,0,8
+7/14/2023,Punjab,Amritsar,Electronics,23324,197,0,7
+4/29/2023,West Bengal,Delhi,Electronics,36334,168,0,4
+1/20/2023,West Bengal,Mumbai,Electronics,26398,252,0,1
+9/18/2023,West Bengal,Kolkata,Grocery,39650,82,0,9
+10/20/2023,West Bengal,Amritsar,Grocery,26292,58,1,10
+9/13/2023,West Bengal,Kolkata,Grocery,40755,110,0,9
+8/10/2023,West Bengal,Mumbai,Electronics,43353,11,0,8
+8/14/2023,Punjab,Mumbai,Electronics,8159,253,0,8
+2/22/2023,Maharashtra,Kolkata,Electronics,37626,185,0,2
+12/21/2023,Delhi,Mumbai,Grocery,34351,247,0,12
+12/8/2023,West Bengal,Amritsar,Electronics,42298,68,0,12
+12/30/2023,Delhi,Kolkata,Clothing,22065,108,0,12
+10/7/2023,Punjab,Mumbai,Electronics,26638,11,0,10
+3/22/2023,West Bengal,Kolkata,Clothing,6073,252,0,3
+7/21/2023,Maharashtra,Amritsar,Electronics,23771,220,0,7
+6/7/2023,Delhi,Mumbai,Grocery,40461,132,0,6
+4/30/2023,West Bengal,Amritsar,Electronics,47330,238,0,4
+2/28/2023,Punjab,Mumbai,Clothing,34320,91,0,2
+8/3/2023,Maharashtra,Delhi,Clothing,9340,153,0,8
+5/8/2023,Delhi,Mumbai,Electronics,39924,149,0,5
+8/12/2023,Delhi,Kolkata,Clothing,21184,38,0,8
+7/28/2023,West Bengal,Mumbai,Clothing,45734,279,0,7
+4/25/2023,Maharashtra,Amritsar,Grocery,7580,256,0,4
+7/28/2023,Maharashtra,Amritsar,Electronics,45025,21,0,7
+1/14/2023,Maharashtra,Mumbai,Electronics,33967,115,0,1
+1/9/2023,Maharashtra,Kolkata,Electronics,7159,41,0,1
+2/9/2023,Punjab,Delhi,Clothing,18900,83,0,2
+8/25/2023,Maharashtra,Kolkata,Electronics,16440,180,0,8
+10/8/2023,Delhi,Delhi,Electronics,19678,78,0,10
+12/25/2023,Delhi,Amritsar,Grocery,17021,146,1,12
+7/20/2023,Punjab,Kolkata,Grocery,11772,109,0,7
+9/3/2023,Delhi,Delhi,Grocery,6627,155,0,9
+10/5/2023,Delhi,Mumbai,Clothing,49432,18,0,10
+8/23/2023,Maharashtra,Amritsar,Electronics,13219,71,0,8
+1/4/2023,Delhi,Mumbai,Grocery,28464,194,0,1
+6/3/2023,Punjab,Amritsar,Grocery,35232,38,0,6
+1/29/2023,Maharashtra,Kolkata,Grocery,47481,123,0,1
+4/19/2023,West Bengal,Kolkata,Electronics,13488,152,0,4
+4/8/2023,Maharashtra,Amritsar,Electronics,39949,129,0,4
+8/3/2023,Punjab,Amritsar,Electronics,49362,179,0,8
+10/20/2023,Maharashtra,Amritsar,Clothing,44932,166,1,10
+3/16/2023,Maharashtra,Kolkata,Clothing,23981,269,0,3
+11/22/2023,Punjab,Delhi,Grocery,5901,91,0,11
+5/26/2023,Maharashtra,Mumbai,Electronics,27444,251,0,5
+5/8/2023,Punjab,Mumbai,Grocery,47058,181,0,5
+12/7/2023,Punjab,Kolkata,Electronics,23061,240,0,12
+2/11/2023,West Bengal,Mumbai,Electronics,7881,217,0,2
+12/22/2023,Delhi,Amritsar,Electronics,34863,84,0,12
+2/10/2023,Delhi,Delhi,Clothing,10622,279,0,2
+2/3/2023,Maharashtra,Mumbai,Clothing,6378,123,0,2
+1/17/2023,Maharashtra,Delhi,Electronics,22632,71,0,1
+6/14/2023,West Bengal,Amritsar,Grocery,33311,111,0,6
+6/2/2023,West Bengal,Mumbai,Electronics,10650,219,0,6
+3/17/2023,West Bengal,Kolkata,Electronics,47224,264,0,3
+3/28/2023,Punjab,Delhi,Grocery,12036,29,0,3
+4/27/2023,West Bengal,Amritsar,Electronics,44255,67,0,4
+12/28/2023,West Bengal,Delhi,Grocery,27499,121,0,12
+12/8/2023,Maharashtra,Mumbai,Clothing,42016,205,0,12
+1/27/2023,West Bengal,Mumbai,Clothing,9603,101,0,1
+11/9/2023,Punjab,Kolkata,Grocery,32773,61,0,11
+10/14/2023,Punjab,Amritsar,Clothing,24937,17,0,10
+5/14/2023,Maharashtra,Amritsar,Clothing,17632,107,0,5
+8/7/2023,West Bengal,Kolkata,Grocery,35607,245,0,8
+6/17/2023,West Bengal,Kolkata,Clothing,31337,78,0,6
+4/8/2023,Punjab,Amritsar,Electronics,5220,54,0,4
+9/25/2023,West Bengal,Delhi,Electronics,9818,146,0,9
+8/25/2023,West Bengal,Delhi,Grocery,12349,243,0,8
+11/5/2023,West Bengal,Kolkata,Clothing,10618,41,0,11
+6/22/2023,Delhi,Delhi,Electronics,32464,298,0,6
+7/9/2023,Maharashtra,Amritsar,Electronics,47624,135,0,7
+5/2/2023,Delhi,Mumbai,Clothing,42344,76,0,5
+2/15/2023,Maharashtra,Mumbai,Clothing,23255,39,0,2
+3/5/2023,Punjab,Delhi,Electronics,29299,123,0,3
+5/10/2023,West Bengal,Kolkata,Electronics,6462,213,0,5
+11/6/2023,Maharashtra,Kolkata,Grocery,20905,38,0,11
+12/29/2023,Delhi,Kolkata,Grocery,29920,140,0,12
+7/12/2023,West Bengal,Kolkata,Electronics,21252,194,0,7
+11/3/2023,Punjab,Kolkata,Grocery,46004,262,0,11
+6/30/2023,Maharashtra,Delhi,Electronics,45581,295,0,6
+10/19/2023,Maharashtra,Mumbai,Electronics,39836,71,0,10
+10/9/2023,Maharashtra,Mumbai,Grocery,10753,12,0,10
+1/29/2023,West Bengal,Delhi,Grocery,45005,77,0,1
+5/29/2023,Delhi,Kolkata,Clothing,19175,34,0,5
+9/24/2023,Delhi,Delhi,Clothing,11191,188,0,9
+10/23/2023,Maharashtra,Mumbai,Clothing,22898,150,1,10
+1/11/2023,Punjab,Amritsar,Electronics,23982,240,0,1
+6/13/2023,Punjab,Delhi,Grocery,19622,172,0,6
+4/23/2023,Delhi,Kolkata,Electronics,6001,139,1,4
+7/6/2023,Punjab,Mumbai,Grocery,48000,255,0,7
+10/22/2023,Delhi,Mumbai,Electronics,28283,181,1,10
+8/20/2023,Maharashtra,Mumbai,Clothing,26435,73,0,8
+8/15/2023,Delhi,Mumbai,Clothing,32223,40,0,8
+11/6/2023,Delhi,Kolkata,Clothing,42244,56,0,11
+4/8/2023,Maharashtra,Amritsar,Electronics,35024,139,0,4
+2/24/2023,Punjab,Mumbai,Grocery,35734,119,0,2
+4/21/2023,Delhi,Delhi,Grocery,5515,78,1,4
+6/1/2023,Delhi,Amritsar,Clothing,6191,67,0,6
+9/3/2023,Maharashtra,Mumbai,Clothing,37264,115,0,9
+3/10/2023,Punjab,Amritsar,Clothing,48628,265,0,3
+11/8/2023,Delhi,Delhi,Clothing,11297,180,0,11
+10/16/2023,Maharashtra,Mumbai,Grocery,32856,171,0,10
+9/7/2023,Delhi,Delhi,Electronics,13334,295,0,9
+2/5/2023,West Bengal,Kolkata,Electronics,29162,80,0,2
+8/27/2023,Maharashtra,Mumbai,Electronics,11008,264,0,8
+5/28/2023,Punjab,Mumbai,Electronics,12987,64,0,5
+8/15/2023,Punjab,Mumbai,Clothing,35966,12,0,8
+9/1/2023,Punjab,Mumbai,Clothing,8332,35,0,9
+12/3/2023,Punjab,Kolkata,Clothing,5787,135,0,12
+12/31/2023,Delhi,Mumbai,Electronics,43990,62,0,12
+7/20/2023,Delhi,Amritsar,Clothing,14873,207,0,7
+6/3/2023,Punjab,Mumbai,Clothing,22006,197,0,6
+3/14/2023,Punjab,Kolkata,Grocery,25225,195,0,3
+7/20/2023,Punjab,Mumbai,Grocery,41444,213,0,7
+10/23/2023,Delhi,Amritsar,Clothing,40340,20,1,10
+1/17/2023,Punjab,Kolkata,Grocery,44683,155,0,1
+5/9/2023,Punjab,Kolkata,Grocery,10033,94,0,5
+8/5/2023,West Bengal,Amritsar,Clothing,12788,109,0,8
+3/2/2023,West Bengal,Amritsar,Clothing,20689,113,0,3
+4/14/2023,Punjab,Amritsar,Clothing,49220,55,0,4
+2/11/2023,Maharashtra,Amritsar,Clothing,26598,53,0,2
+1/25/2023,Punjab,Amritsar,Electronics,42480,287,0,1
+2/8/2023,West Bengal,Kolkata,Electronics,34703,190,0,2
+10/18/2023,Maharashtra,Kolkata,Clothing,5066,196,0,10
+5/11/2023,Maharashtra,Mumbai,Grocery,12533,123,0,5
+8/17/2023,Punjab,Mumbai,Clothing,20103,264,0,8
+4/18/2023,West Bengal,Delhi,Clothing,9616,39,0,4
+6/21/2023,West Bengal,Mumbai,Grocery,43498,273,0,6
+4/12/2023,Maharashtra,Mumbai,Electronics,48492,107,0,4
+12/20/2023,Punjab,Amritsar,Clothing,16772,124,0,12
+1/12/2023,Delhi,Amritsar,Clothing,28849,285,0,1
+10/2/2023,Delhi,Mumbai,Electronics,17940,290,0,10
+4/11/2023,West Bengal,Delhi,Electronics,21932,284,0,4
+2/13/2023,Delhi,Amritsar,Grocery,34769,270,0,2
+11/1/2023,West Bengal,Mumbai,Electronics,29648,216,0,11
+1/17/2023,West Bengal,Mumbai,Electronics,37966,220,0,1
+11/26/2023,West Bengal,Kolkata,Electronics,32777,224,0,11
+2/26/2023,Delhi,Delhi,Grocery,37567,49,0,2
+11/7/2023,West Bengal,Kolkata,Electronics,22174,35,0,11
+10/30/2023,Maharashtra,Delhi,Electronics,47598,36,0,10
+1/12/2023,Punjab,Amritsar,Grocery,18798,199,0,1
+11/14/2023,Punjab,Delhi,Electronics,22558,92,1,11
+3/21/2023,West Bengal,Mumbai,Electronics,49237,179,0,3
+8/4/2023,Punjab,Mumbai,Grocery,5178,176,0,8
+12/5/2023,Delhi,Delhi,Clothing,25470,197,0,12
+9/21/2023,Delhi,Delhi,Grocery,22118,178,0,9
+5/29/2023,Punjab,Delhi,Electronics,27616,298,0,5
+3/22/2023,Delhi,Kolkata,Electronics,5798,238,0,3
+8/3/2023,Punjab,Delhi,Electronics,12601,106,0,8
+7/17/2023,Punjab,Amritsar,Grocery,30363,25,0,7
+7/19/2023,Punjab,Kolkata,Electronics,7795,288,0,7
+1/25/2023,West Bengal,Kolkata,Electronics,36926,144,0,1
+3/30/2023,Punjab,Delhi,Grocery,42356,35,0,3
+9/25/2023,West Bengal,Amritsar,Clothing,12297,21,0,9
+5/23/2023,Punjab,Kolkata,Clothing,8084,81,0,5
+2/28/2023,Punjab,Mumbai,Electronics,35329,142,0,2
+12/31/2023,Punjab,Kolkata,Grocery,16110,115,0,12
+1/26/2023,Delhi,Delhi,Electronics,5731,229,0,1
+2/16/2023,West Bengal,Amritsar,Grocery,6129,186,0,2
+10/15/2023,West Bengal,Delhi,Grocery,33022,291,0,10
+9/23/2023,Punjab,Mumbai,Clothing,6605,142,0,9
+1/16/2023,Punjab,Mumbai,Clothing,16970,31,0,1
+7/18/2023,Delhi,Mumbai,Grocery,48705,278,0,7
+10/9/2023,Delhi,Delhi,Electronics,49130,170,0,10
+3/27/2023,Delhi,Kolkata,Clothing,34265,116,0,3
+9/7/2023,West Bengal,Delhi,Electronics,37330,288,0,9
+9/27/2023,West Bengal,Amritsar,Clothing,7933,244,0,9
+12/1/2023,West Bengal,Kolkata,Clothing,20187,27,0,12
+4/27/2023,Punjab,Mumbai,Electronics,30791,251,0,4
+1/7/2023,West Bengal,Delhi,Clothing,29900,126,0,1
+5/17/2023,Maharashtra,Mumbai,Clothing,10074,295,0,5
+6/25/2023,Maharashtra,Mumbai,Electronics,31426,291,0,6
+11/24/2023,Delhi,Amritsar,Clothing,44867,153,0,11
+11/11/2023,West Bengal,Kolkata,Clothing,5893,214,1,11
+8/3/2023,Maharashtra,Amritsar,Clothing,39158,48,0,8
+3/23/2023,Delhi,Amritsar,Electronics,24773,163,0,3
+8/11/2023,West Bengal,Amritsar,Grocery,9239,185,0,8
+4/13/2023,Punjab,Mumbai,Electronics,25863,250,0,4
+9/30/2023,Maharashtra,Amritsar,Grocery,8432,143,0,9
+1/14/2023,Punjab,Amritsar,Clothing,40139,55,0,1
+6/8/2023,West Bengal,Kolkata,Grocery,6515,59,0,6
+6/1/2023,Maharashtra,Kolkata,Electronics,36670,175,0,6
+4/18/2023,West Bengal,Amritsar,Electronics,44094,115,0,4
+7/7/2023,Punjab,Kolkata,Clothing,19605,225,0,7
+10/28/2023,Maharashtra,Kolkata,Grocery,10586,155,0,10
+4/8/2023,Punjab,Amritsar,Clothing,40685,81,0,4
+5/11/2023,West Bengal,Mumbai,Clothing,36186,282,0,5
+10/20/2023,West Bengal,Amritsar,Electronics,31928,256,1,10
+6/20/2023,Punjab,Kolkata,Grocery,37728,195,0,6
+7/2/2023,Maharashtra,Mumbai,Grocery,22551,79,0,7
+12/30/2023,Punjab,Delhi,Grocery,26493,159,0,12
+2/8/2023,West Bengal,Mumbai,Grocery,25711,255,0,2
+1/15/2023,Punjab,Kolkata,Clothing,25039,271,0,1
+1/4/2023,West Bengal,Mumbai,Clothing,41561,35,0,1
+12/15/2023,Punjab,Amritsar,Electronics,14947,149,0,12
+7/29/2023,Maharashtra,Delhi,Clothing,37335,108,0,7
+6/10/2023,Maharashtra,Delhi,Clothing,20859,287,0,6
+1/16/2023,Punjab,Delhi,Electronics,28122,60,0,1
+4/18/2023,Punjab,Kolkata,Electronics,6577,160,0,4
+11/7/2023,Maharashtra,Kolkata,Electronics,47256,113,0,11
+8/15/2023,West Bengal,Delhi,Clothing,33350,98,0,8
+6/19/2023,Maharashtra,Mumbai,Clothing,46932,150,0,6
+2/3/2023,West Bengal,Delhi,Electronics,38798,222,0,2
+9/8/2023,Punjab,Mumbai,Electronics,36898,242,0,9
+9/4/2023,Punjab,Mumbai,Electronics,20881,192,0,9
+9/26/2023,West Bengal,Kolkata,Clothing,15785,260,0,9
+5/21/2023,Punjab,Mumbai,Clothing,11691,18,0,5
